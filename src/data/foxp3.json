@@ -1,0 +1,6002 @@
+[
+  {
+    "title": "Analysis of the Foxp3/scurfin gene in Crohn's disease.",
+    "year": 2005,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Scurfin (FOXP3) acts as a repressor of transcription and regulates T cell activation.",
+    "year": 2001,
+    "citations": 139,
+    "references": 0
+  },
+  {
+    "title": "Analysis of a GT microsatellite in the promoter of the foxp3/scurfin gene in autoimmune diseases.",
+    "year": 2005,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Scurfin (FoxP3) controls T-dependent immune responses in vivo through regulation of CD4+ T cell effector function.",
+    "year": 2003,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "A functional polymorphism in the promoter/enhancer region of the FOXP3/Scurfin gene associated with type 1 diabetes",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3/Scurfin gene polymorphism is associated with adult onset type 1 diabetes in Japanese, especially in women and slowly progressive-type patients.",
+    "year": 2009,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "An essential role for Scurfin in CD4+CD25+ T regulatory cells.",
+    "year": 2003,
+    "citations": 735,
+    "references": 0
+  },
+  {
+    "title": "The amount of scurfin protein determines peripheral T cell number and responsiveness.",
+    "year": 2001,
+    "citations": 34,
+    "references": 22
+  },
+  {
+    "title": "Polymorphism of the ovine FOXP3 gene (FOXP3).",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Promiscuous Foxp3-cre activity reveals a differential requirement for CD28 in Foxp3+ and Foxp3− T cells",
+    "year": 2015,
+    "citations": 4,
+    "references": 16
+  },
+  {
+    "title": "FOXP3-specific immunity",
+    "year": 2013,
+    "citations": 0,
+    "references": 9
+  },
+  {
+    "title": "Diminished levels of regulatory T cell subsets (CD8+Foxp3, CD4+Foxp3 and CD4+CD39+Foxp3) but increased Foxp3 expression in adipose tissue from overweight subjects.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells: control of FOXP3 expression by pharmacological agents.",
+    "year": 2011,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and FOXP3-regulated microRNAs suppress SATB1 in breast cancer cells.",
+    "year": 2012,
+    "citations": 34,
+    "references": 0
+  },
+  {
+    "title": "Androgen receptor modulates Foxp3 expression in CD4+CD25+Foxp3+ regulatory T-cells",
+    "year": 2015,
+    "citations": 4,
+    "references": 18
+  },
+  {
+    "title": "What turns on Foxp3?",
+    "year": 2008,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Foxp3: shades of tolerance.",
+    "year": 2012,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Functional analysis of FOXP3.",
+    "year": 2008,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Re-redefining Foxp3 function",
+    "year": 2007,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Human FOXP3 and cancer.",
+    "year": 2010,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Downregulation of Ezh2 methyltransferase by FOXP3: new insight of FOXP3 into chromatin remodeling?",
+    "year": 2013,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Dendritic cells support homeostatic expansion of Foxp3+ regulatory T cells in Foxp3.LuciDTR mice.",
+    "year": 2010,
+    "citations": 47,
+    "references": 41
+  },
+  {
+    "title": "[Transcription factor FOXP3 and reproduction].",
+    "year": 2009,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Foxo1 and Foxo3 help Foxp3.",
+    "year": 2010,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Maintaining immunological tolerance with Foxp3.",
+    "year": 2007,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "FOXP3: of mice and men.",
+    "year": 2006,
+    "citations": 261,
+    "references": 0
+  },
+  {
+    "title": "ChIP-on-chip for FoxP3.",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Kickstarting Foxp3 with c-Rel.",
+    "year": 2009,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD25+Foxp3+ T cells and CD4+CD25-Foxp3+ T cells in aged mice.",
+    "year": 2006,
+    "citations": 52,
+    "references": 30
+  },
+  {
+    "title": "Therapeutic targeting of FOXP3-positive regulatory T cells using a FOXP3 peptide vaccine WO2008081581.",
+    "year": 2009,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and its partners: structural and biochemical insights into the regulation of FOXP3 activity.",
+    "year": 2008,
+    "citations": 16,
+    "references": 54
+  },
+  {
+    "title": "Runx proteins regulate Foxp3 expression",
+    "year": 2009,
+    "citations": 25,
+    "references": 24
+  },
+  {
+    "title": "Disruption of a new forkhead/winged-helix protein, scurfin, results in the fatal lymphoproliferative disorder of the scurfy mouse.",
+    "year": 2001,
+    "citations": 472,
+    "references": 0
+  },
+  {
+    "title": "IPEX Syndrome, FOXP3 and Cancer.",
+    "year": 2013,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 gene polymorphisms in preeclampsia.",
+    "year": 2012,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Regulatory T cells and Foxp3.",
+    "year": 2011,
+    "citations": 89,
+    "references": 0
+  },
+  {
+    "title": "FoxP3 gets a new gig",
+    "year": 2005,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Role of activin A in the induction of Foxp3+ and Foxp3- CD4+ regulatory T cells.",
+    "year": 2011,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Ex-Th17 Foxp3+ T cells - a novel subset of Foxp3+ T cells induced in cancer",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Negligible nuclear FOXP3 expression in breast cancer epithelial cells compared with FOXP3-positive T cells.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "The role of FOXP3 in autoimmunity.",
+    "year": 2016,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 ensembles in T-cell regulation.",
+    "year": 2006,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "Foxp3(+) regulatory T cells in tuberculosis.",
+    "year": 2013,
+    "citations": 17,
+    "references": 0
+  },
+  {
+    "title": "OX40 costimulation turns off Foxp3+ Tregs.",
+    "year": 2007,
+    "citations": 104,
+    "references": 44
+  },
+  {
+    "title": "Correlation between protein expression of FOXP3 and level of FOXP3 promoter methylation in recurrent spontaneous abortion.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "DNA methylation controls Foxp3 gene expression.",
+    "year": 2008,
+    "citations": 164,
+    "references": 0
+  },
+  {
+    "title": "Plasticity of CD4(+) FoxP3(+) T cells.",
+    "year": 2009,
+    "citations": 100,
+    "references": 0
+  },
+  {
+    "title": "TNFα induced FOXP3-NFκB interaction dampens the tumor suppressor role of FOXP3 in gastric cancer cells.",
+    "year": 2013,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Regulatory T-cells, FoxP3 and atherosclerosis.",
+    "year": 2009,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Cooperative regulatory events and Foxp3 expression.",
+    "year": 2011,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Origin of Foxp3(+) cells during pregnancy.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 regulates megakaryopoiesis and platelet function.",
+    "year": 2009,
+    "citations": 4,
+    "references": 50
+  },
+  {
+    "title": "Foxp3 expression in human cancer cells",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and NFAT: Partners in Tolerance",
+    "year": 2006,
+    "citations": 32,
+    "references": 0
+  },
+  {
+    "title": "Insights into transcriptional regulation by FOXP3.",
+    "year": 2006,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Maintenance of the Foxp3-dependent developmental program in mature regulatory T cells requires continued expression of Foxp3.",
+    "year": 2007,
+    "citations": 238,
+    "references": 0
+  },
+  {
+    "title": "IL-2 controls the stability of Foxp3 expression in TGF-beta-induced Foxp3+ T cells in vivo.",
+    "year": 2011,
+    "citations": 60,
+    "references": 0
+  },
+  {
+    "title": "FTY720-induced conversion of conventional Foxp3- CD4+ T cells to Foxp3+ regulatory T cells in NOD mice.",
+    "year": 2011,
+    "citations": 7,
+    "references": 32
+  },
+  {
+    "title": "DNA demethylation in the human FOXP3 locus discriminates regulatory T cells from activated FOXP3(+) conventional T cells.",
+    "year": 2007,
+    "citations": 172,
+    "references": 0
+  },
+  {
+    "title": "Interleukin-12 converts Foxp3+ regulatory T cells to interferon-γ-producing Foxp3+ T cells that inhibit colitis.",
+    "year": 2011,
+    "citations": 35,
+    "references": 8
+  },
+  {
+    "title": "Foxp3 expression in CD4+CD25+Foxp3+ regulatory T cells promotes development of colorectal cancer by inhibiting tumor immunity",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "[Placental Foxp3 expression in patients with preeclampsia and correlation of Foxp3 gene locus 924 (rs2232365) polymorphism with preeclampsia].",
+    "year": 2015,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Identification of an immediate Foxp3− precursor to Foxp3+ regulatory T cells in peripheral lymphoid organs of nonmanipulated mice",
+    "year": 2010,
+    "citations": 24,
+    "references": 45
+  },
+  {
+    "title": "Higher Sensitivity of Foxp3+ Treg Compared to Foxp3- Conventional T Cells to TCR-Independent Signals for CD69 Induction",
+    "year": 2015,
+    "citations": 0,
+    "references": 44
+  },
+  {
+    "title": "IPEX and FOXP3: clinical and research perspectives.",
+    "year": 2005,
+    "citations": 27,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and scurfy: how it all began.",
+    "year": 2014,
+    "citations": 25,
+    "references": 0
+  },
+  {
+    "title": "Searching for the Achilles Heel of FOXP3",
+    "year": 2013,
+    "citations": 4,
+    "references": 95
+  },
+  {
+    "title": "Foxp3⁺ T(reg) cells in humoral immunity.",
+    "year": 2014,
+    "citations": 17,
+    "references": 0
+  },
+  {
+    "title": "Molecular targets of FoxP3+ regulatory T cells.",
+    "year": 2007,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Molecular regulation of cellular immunity by FOXP3.",
+    "year": 2009,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Understanding FOXP3: progress towards achieving transplantation tolerance.",
+    "year": 2007,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "Decreased FOXP3 levels in multiple sclerosis patients.",
+    "year": 2005,
+    "citations": 86,
+    "references": 26
+  },
+  {
+    "title": "Identity crisis: it's not just Foxp3 anymore.",
+    "year": 2012,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "FoxP3: a life beyond regulatory T cells.",
+    "year": 2009,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Human FOXP3+ regulatory T cells in transplantation.",
+    "year": 2009,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Functional stability of Foxp3+ regulatory T cells.",
+    "year": 2012,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Post-translational modification networks regulating FOXP3 function.",
+    "year": 2014,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Thymic production of human FOXP3(+) regulatory T cells is stable but does not correlate with peripheral FOXP3 expression.",
+    "year": 2008,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "The importance of Foxp3 antibody and fixation/permeabilization buffer combinations in identifying CD4+CD25+Foxp3+ regulatory T cells.",
+    "year": 2009,
+    "citations": 20,
+    "references": 0
+  },
+  {
+    "title": "Paradoxically Increased FOXP3+ T Cells in IBD Do Not Preferentially Express the Isoform of FOXP3 Lacking Exon 2",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3: genetic and epigenetic implications for autoimmunity.",
+    "year": 2013,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and survival in urinary bladder cancer.",
+    "year": 2011,
+    "citations": 27,
+    "references": 0
+  },
+  {
+    "title": "Single-cell analysis of normal and FOXP3-mutant human T cells: FOXP3 expression without regulatory T cell development.",
+    "year": 2006,
+    "citations": 199,
+    "references": 0
+  },
+  {
+    "title": "Epigenetic mechanisms of regulation of Foxp3 expression.",
+    "year": 2009,
+    "citations": 82,
+    "references": 124
+  },
+  {
+    "title": "\"FoxP3 Hunting\" during infection with Francisella tularensis.",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3-microRNA-146-NF-κB as oncotarget.",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "DC expressing transgene Foxp3 are regulatory APC.",
+    "year": 2010,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ regulatory T cells: differentiation, specification, subphenotypes.",
+    "year": 2009,
+    "citations": 136,
+    "references": 84
+  },
+  {
+    "title": "CD200R/Foxp3-mediated signalling regulates microglial activation",
+    "year": 2016,
+    "citations": 0,
+    "references": 35
+  },
+  {
+    "title": "Foxp3+ regulatory T cells: selfishness under scrutiny.",
+    "year": 2007,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "The molecular mechanisms of Foxp3 gene regulation.",
+    "year": 2011,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "The Role of FOXP3 in Human Cancers.",
+    "year": 2016,
+    "citations": 0,
+    "references": 30
+  },
+  {
+    "title": "Cell Biology of Foxp3+ Regulatory T Cells",
+    "year": 2013,
+    "citations": 0,
+    "references": 184
+  },
+  {
+    "title": "Developmental plasticity of Foxp3+ regulatory T cells.",
+    "year": 2010,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Developmental regulation of Foxp3 expression during ontogeny",
+    "year": 2005,
+    "citations": 128,
+    "references": 22
+  },
+  {
+    "title": "FOXP3 as an X-linked tumor suppressor.",
+    "year": 2010,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Foxp3, Regulatory T Cell, and Autoimmune Diseases",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Decreased Expression of FOXP3 in Nasal Polyposis",
+    "year": 2012,
+    "citations": 2,
+    "references": 23
+  },
+  {
+    "title": "Helios expression in FoxP3(+) T regulatory cells.",
+    "year": 2012,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Imbalance of circulating CD4(+)CXCR5(+)FOXP3(+) Tfr-like cells and CD4(+)CXCR5(+)FOXP3(-) Tfh-like cells in myasthenia gravis.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Higher intratumoral infiltrated Foxp3+ Treg numbers and Foxp3+/CD8+ ratio are associated with adverse prognosis in resectable gastric cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Influenza matrix 1-specific human CD4+ FOXP3+ and FOXP3(-) regulatory T cells can be detected long after viral clearance.",
+    "year": 2010,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ cell infiltration and granzyme B+/Foxp3+ cell ratio are associated with outcome in neoadjuvant chemotherapy-treated ovarian carcinoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Changes in Natural Foxp3+Treg but Not Mucosally-Imprinted CD62LnegCD38+Foxp3+Treg in the Circulation of Celiac Disease Patients",
+    "year": 2013,
+    "citations": 1,
+    "references": 41
+  },
+  {
+    "title": "Thymus transplantation restores the repertoires of forkhead box protein 3 (FoxP3)+ and FoxP3- T cells in complete DiGeorge anomaly.",
+    "year": 2013,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Interleukin-7 matures suppressive CD127(+) forkhead box P3 (FoxP3)(+) T cells into CD127(-) CD25(high) FoxP3(+) regulatory T cells.",
+    "year": 2011,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Regulatory T cells expressing interleukin 10 develop from Foxp3+ and Foxp3- precursor cells in the absence of interleukin 10.",
+    "year": 2007,
+    "citations": 127,
+    "references": 0
+  },
+  {
+    "title": "Developmental changes of FOXP3-expressing CD4+CD25+ regulatory T cells and their impairment in patients with FOXP3 gene mutations.",
+    "year": 2007,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Highly prevalent colorectal cancer-infiltrating LAP+ Foxp3− T cells exhibit more potent immunosuppressive activity than Foxp3+ regulatory T cells",
+    "year": 2014,
+    "citations": 17,
+    "references": 38
+  },
+  {
+    "title": "Costimulatory effects of IL-1 on the expansion/differentiation of CD4+CD25+Foxp3+ and CD4+CD25+Foxp3- T cells.",
+    "year": 2008,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Altered balance between self-reactive Th17 cells and Th10 cells and between full-length FOXP3 and FOXP3 splice vari-",
+    "year": 2015,
+    "citations": 1,
+    "references": 308
+  },
+  {
+    "title": "Donor-specific CD8+ Foxp3+ T cells protect skin allografts and facilitate induction of conventional CD4+ Foxp3+ regulatory T cells.",
+    "year": 2012,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Quantitative impact of thymic selection on Foxp3+ and Foxp3- subsets of self-peptide/MHC class II-specific CD4+ T cells.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Expression of costimulatory TNFR2 induces resistance of CD4+FoxP3- conventional T cells to suppression by CD4+FoxP3+ regulatory T cells.",
+    "year": 2010,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression in p53-dependent DNA damage responses.",
+    "year": 2010,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Macrophages overexpressing Aire induce CD4+Foxp3+ T cells.",
+    "year": 2013,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Macrophages have no lineage history of Foxp3 expression.",
+    "year": 2012,
+    "citations": 7,
+    "references": 8
+  },
+  {
+    "title": "Molecular Mechanisms Regulating TGF-β-Induced Foxp3 Expression",
+    "year": 2010,
+    "citations": 11,
+    "references": 54
+  },
+  {
+    "title": "Premature Expression of Foxp3 in Double-Negative Thymocytes",
+    "year": 2015,
+    "citations": 1,
+    "references": 19
+  },
+  {
+    "title": "CD103+ GALT DCs promote Foxp3+ regulatory T cells.",
+    "year": 2008,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 gene promoter methylation in endometrial cancer cells.",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Molecular characterisation of porcine Forkhead-box p3 (Foxp3).",
+    "year": 2009,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 expression and clinical characteristics of hepatocellular carcinoma.",
+    "year": 2010,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 expression and nodal metastasis of breast cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Clinical significance of FOXP3 expression in human gliomas.",
+    "year": 2014,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Adaptive Autoimmunity and Foxp3-Based Immunoregulation in Zebrafish",
+    "year": 2010,
+    "citations": 17,
+    "references": 45
+  },
+  {
+    "title": "HBV preS2 transactivates FOXP3 expression in malignant hepatocytes.",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells and their functional regulation.",
+    "year": 2015,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Harnessing FOXP3+ regulatory T cells for transplantation tolerance.",
+    "year": 2014,
+    "citations": 13,
+    "references": 98
+  },
+  {
+    "title": "FOXP3+ regulatory T cells in vulnerable atherosclerotic plaques.",
+    "year": 2010,
+    "citations": 3,
+    "references": 5
+  },
+  {
+    "title": "Mechanisms of foxp3+ T regulatory cell-mediated suppression.",
+    "year": 2009,
+    "citations": 460,
+    "references": 28
+  },
+  {
+    "title": "Dexamethasone upregulates FOXP3 expression without increasing regulatory activity.",
+    "year": 2011,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Effects of FOXP3 gene polymorphism in sarcoidosis patients.",
+    "year": 2007,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Plasticity of Foxp3(+) T cells reflects promiscuous Foxp3 expression in conventional T cells but not reprogramming of regulatory T cells.",
+    "year": 2012,
+    "citations": 146,
+    "references": 46
+  },
+  {
+    "title": "Cutaneous and oral squamous cell carcinoma-dual immunosuppression via recruitment of FOXP3+ regulatory T cells and endogenous tumour FOXP3 expression?",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Distinct Roles for FOXP3+ and FOXP3− CD4+ T Cells in Regulating Cellular Immunity to Uncomplicated and Severe Plasmodium falciparum Malaria",
+    "year": 2009,
+    "citations": 80,
+    "references": 76
+  },
+  {
+    "title": "FoxP3: A Key Player in T Regulatory Biology",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "TGF-beta and 'adaptive' Foxp3(+) regulatory T cells.",
+    "year": 2010,
+    "citations": 30,
+    "references": 0
+  },
+  {
+    "title": "Transcriptional regulation of Foxp3 in regulatory T cells.",
+    "year": 2011,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression in cutaneous T-cell lymphocytic infiltrates.",
+    "year": 2008,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "FoxP3 gene promoter polymorphism affects susceptibility to preeclampsia.",
+    "year": 2016,
+    "citations": 0,
+    "references": 44
+  },
+  {
+    "title": "The regulation of FoxP3-expressing regulatory T cells.",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and its role in the immune system.",
+    "year": 2009,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "The role of FOXP3 in regulating immune responses.",
+    "year": 2014,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "CD4(+)Foxp3(+) regulatory T cell therapy in transplantation.",
+    "year": 2012,
+    "citations": 40,
+    "references": 130
+  },
+  {
+    "title": "FOXP3: not just for regulatory T cells anymore.",
+    "year": 2007,
+    "citations": 48,
+    "references": 0
+  },
+  {
+    "title": "Molecular mechanisms regulating TGF-beta-induced Foxp3 expression.",
+    "year": 2010,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "CD4+Foxp3+ T-regulatory cells in noninfectious uveitis.",
+    "year": 2009,
+    "citations": 6,
+    "references": 30
+  },
+  {
+    "title": "Functional characterization of Foxp3-specific spontaneous immune responses.",
+    "year": 2013,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ T regulatory cells in idiopathic inflammatory myopathies.",
+    "year": 2010,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "You, me and Foxp3: immune regulation for two.",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Transcriptome profiling of human FoxP3+ regulatory T cells.",
+    "year": 2016,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 in sequential biopsies of progressive mycosis fungoides.",
+    "year": 2012,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "IPEX as a Result of Mutations in FOXP3",
+    "year": 2007,
+    "citations": 37,
+    "references": 28
+  },
+  {
+    "title": "FOXP3 and the regulation of Treg/Th17 differentiation.",
+    "year": 2009,
+    "citations": 46,
+    "references": 16
+  },
+  {
+    "title": "Foxp3(high) and Foxp3(low) Treg cells differentially correlate with T helper 1 and natural killer cells in peripheral blood.",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Crossreactivity of antibodies to canine CD25 and Foxp3 and identification of canine CD4+CD25 +Foxp3+ cells in canine peripheral blood.",
+    "year": 2009,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Vaccination against Foxp3(+) regulatory T cells aggravates atherosclerosis.",
+    "year": 2010,
+    "citations": 37,
+    "references": 0
+  },
+  {
+    "title": "Update: the role of FoxP3 in allergic disease.",
+    "year": 2008,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ Regulatory T Cells Promote Lung Epithelial Proliferation",
+    "year": 2014,
+    "citations": 5,
+    "references": 46
+  },
+  {
+    "title": "Unstable FoxP3+ T regulatory cells in NZW mice.",
+    "year": 2016,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "The prognostic value of FoxP3+ tumor-infiltrating lymphocytes",
+    "year": 2012,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 expression and overall survival in breast cancer.",
+    "year": 2009,
+    "citations": 89,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 is a novel repressor of microglia activation.",
+    "year": 2010,
+    "citations": 4,
+    "references": 28
+  },
+  {
+    "title": "Foxp3 expressing regulatory T-cells in allergic disease.",
+    "year": 2009,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Decreased FOXP3 protein expression in patients with asthma.",
+    "year": 2009,
+    "citations": 35,
+    "references": 0
+  },
+  {
+    "title": "Ubiquitin-dependent regulation of Foxp3 and Treg function.",
+    "year": 2015,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Foxp3-dependent programme of regulatory T-cell differentiation.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "[Correlation between FOXP3 gene polymorphisms and allergic rhinitis].",
+    "year": 2010,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "FoxP3+ Regulatory T Cells Attenuate Experimental Necrotizing Enterocolitis",
+    "year": 2013,
+    "citations": 4,
+    "references": 53
+  },
+  {
+    "title": "Investigations on the clinical significance of FOXP3 protein expression in cervical oesophageal cancer and the number of FOXP3+ tumour-infiltrating lymphocytes.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "CD8+ Foxp3+ T cells share developmental and phenotypic features with classical CD4+ Foxp3+ regulatory T cells but lack potent suppressive activity.",
+    "year": 2011,
+    "citations": 30,
+    "references": 0
+  },
+  {
+    "title": "The frequency of peripheral blood CD4+ CD25high FoxP3+ and CD4+ CD25- FoxP3+ regulatory T cells in normal pregnancy and pre-eclampsia.",
+    "year": 2012,
+    "citations": 17,
+    "references": 0
+  },
+  {
+    "title": "Wild-type FOXP3 is selectively active in CD4+CD25(hi) regulatory T cells of healthy female carriers of different FOXP3 mutations.",
+    "year": 2009,
+    "citations": 6,
+    "references": 19
+  },
+  {
+    "title": "HIV infection of human regulatory T cells downregulates Foxp3 expression by increasing DNMT3b levels and DNA methylation in the FOXP3 gene.",
+    "year": 2013,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Low frequency of CD8+CD25+FOXP3(BRIGHT) T cells and FOXP3 mRNA expression in the peripheral blood of allergic asthma patients.",
+    "year": 2012,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Monoclonal antibodies raised to the human FOXP3 protein can be used effectively for detecting Foxp3(+) T cells in other mammalian species.",
+    "year": 2009,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "STAT6 Inhibits TGF-beta1-mediated Foxp3 induction through direct binding to the Foxp3 promoter, which is reverted by retinoic acid receptor.",
+    "year": 2008,
+    "citations": 39,
+    "references": 0
+  },
+  {
+    "title": "Presence of Foxp3-expressing CD19(+)CD5(+) B Cells in Human Peripheral Blood Mononuclear Cells: Human CD19(+)CD5(+)Foxp3(+) Regulatory B Cell (Breg)",
+    "year": 2010,
+    "citations": 13,
+    "references": 9
+  },
+  {
+    "title": "Peritumoral FOXP3+ regulatory T cell is sensitive to chemotherapy while intratumoral FOXP3+ regulatory T cell is prognostic predictor of breast cancer patients",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Oral tolerance induction with antigen conjugated to cholera toxin B subunit generates both Foxp3+CD25+ and Foxp3-CD25- CD4+ regulatory T cells.",
+    "year": 2006,
+    "citations": 22,
+    "references": 38
+  },
+  {
+    "title": "Regulation of humoral immunity by FoxP3+ regulatory T cells.",
+    "year": 2006,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Bidirectional immunoregulation of calcineurin inhibitor tacrolimus on FOXP3 transcription?",
+    "year": 2011,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "[Girl with IPEX syndrome with low expression of Foxp3].",
+    "year": 2012,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Activation-dependent mitochondrial translocation of Foxp3 in human hepatocytes.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Induced CD4+Foxp3+ regulatory T cells in immune tolerance.",
+    "year": 2012,
+    "citations": 109,
+    "references": 136
+  },
+  {
+    "title": "FOXP3 and RORγt: transcriptional regulation of Treg and Th17.",
+    "year": 2011,
+    "citations": 14,
+    "references": 71
+  },
+  {
+    "title": "Allergic dysregulation and hyperimmunoglobulinemia E in Foxp3 mutant mice.",
+    "year": 2005,
+    "citations": 56,
+    "references": 0
+  },
+  {
+    "title": "Is Foxp3 a good marker for regulatory T cells?",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD25+FoxP3+ regulatory T cells in autoimmune diseases.",
+    "year": 2007,
+    "citations": 56,
+    "references": 0
+  },
+  {
+    "title": "FOXP3, a novel glioblastoma oncosuppressor, affects proliferation and migration",
+    "year": 2012,
+    "citations": 6,
+    "references": 6
+  },
+  {
+    "title": "Assessing the suppressive activity of Foxp3⁺ regulatory T cells.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 regulates TLR10 expression in human T regulatory cells.",
+    "year": 2007,
+    "citations": 17,
+    "references": 0
+  },
+  {
+    "title": "[Preparation and application of anti-serum against mouse Foxp3].",
+    "year": 2008,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Immunologic Targeting of FOXP3 in Inflammatory Breast Cancer Cells",
+    "year": 2013,
+    "citations": 7,
+    "references": 57
+  },
+  {
+    "title": "Mbd2 promotes foxp3 demethylation and T-regulatory-cell function.",
+    "year": 2013,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Control of Foxp3 stability through modulation of TET activity",
+    "year": 2016,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 (−/ATT) Polymorphism Contributes to the Susceptibility of Preeclampsia",
+    "year": 2013,
+    "citations": 5,
+    "references": 16
+  },
+  {
+    "title": "FOXP3 acts as a rheostat of the immune response.",
+    "year": 2005,
+    "citations": 51,
+    "references": 0
+  },
+  {
+    "title": "Human FoxP3+ regulatory T cells in systemic autoimmune diseases.",
+    "year": 2011,
+    "citations": 57,
+    "references": 0
+  },
+  {
+    "title": "Development of Foxp3+ regulatory T cell: epigenetics and more…",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Hepatocytes induce Foxp3⁺ regulatory T cells by Notch signaling.",
+    "year": 2014,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Specific Immunosuppression with Inducible Foxp3-Transduced Polyclonal T cells",
+    "year": 2008,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Signalling through FOXP3 as an X-linked tumor suppressor.",
+    "year": 2010,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Rapamycin selectively expands CD4+CD25+FoxP3+ regulatory T cells.",
+    "year": 2005,
+    "citations": 263,
+    "references": 30
+  },
+  {
+    "title": "Differentiation and function of Foxp3(+) effector regulatory T cells.",
+    "year": 2013,
+    "citations": 29,
+    "references": 0
+  },
+  {
+    "title": "Reduced frequency of CD4(+)CD25(HIGH)FOXP3(+) cells and diminished FOXP3 expression in patients with Common Variable Immunodeficiency: a link to autoimmunity?",
+    "year": 2009,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Dendritic cells are specialized accessory cells along with TGF- for the differentiation of Foxp3+ CD4+ regulatory T cells from peripheral Foxp3 precursors.",
+    "year": 2007,
+    "citations": 61,
+    "references": 75
+  },
+  {
+    "title": "CD4⁺CD25⁺FOXP3⁺ T cells, Foxp3 gene and protein expression contribute to antiasthmatic effects of San'ao decoction in mice model of asthma.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "FOXP3-positive regulatory T lymphocytes and epithelial FOXP3 expression in synchronous normal, ductal carcinoma in situ, and invasive cancer of the breast",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Epigenetic and transcriptional control of Foxp3+ regulatory T cells.",
+    "year": 2015,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "TGF-β-induced IκB-ζ controls Foxp3 gene expression.",
+    "year": 2015,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells in the human immune system.",
+    "year": 2010,
+    "citations": 457,
+    "references": 0
+  },
+  {
+    "title": "Localization of FOXP3-positive cells in renal cell carcinoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Analysis of human FOXP3+ Treg cells phenotype and function.",
+    "year": 2011,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 in control of the regulatory T cell lineage.",
+    "year": 2007,
+    "citations": 211,
+    "references": 0
+  },
+  {
+    "title": "Ultraviolet irradiation promotes FOXP3 transcription via p53 in psoriasis.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Nonredundant roles for Stat5a/b in directly regulating Foxp3.",
+    "year": 2007,
+    "citations": 165,
+    "references": 0
+  },
+  {
+    "title": "Phenotypical and functional specialization of FOXP3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 184,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and GARP (LRRC32): the master and its minion",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 suppresses breast cancer metastasis through downregulation of CD44.",
+    "year": 2015,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Identity of mysterious CD4+CD25-Foxp3+ cells in SLE",
+    "year": 2010,
+    "citations": 27,
+    "references": 11
+  },
+  {
+    "title": "Decreased number of FoxP3+ regulatory T cells in preeclampsia.",
+    "year": 2008,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells as biomarkers in human malignancies.",
+    "year": 2008,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "'Nurr'ishing Treg cells: Nr4a transcription factors control Foxp3 expression.",
+    "year": 2013,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 and TGF-β gene polymorphisms in allergic rhinitis.",
+    "year": 2011,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "IL-2Rbeta links IL-2R signaling with Foxp3 expression.",
+    "year": 2007,
+    "citations": 34,
+    "references": 0
+  },
+  {
+    "title": "Curing CNS autoimmune disease with myelin-reactive Foxp3+ Treg.",
+    "year": 2009,
+    "citations": 40,
+    "references": 0
+  },
+  {
+    "title": "Detection of Foxp3 protein expression in porcine T lymphocytes.",
+    "year": 2008,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 as a marker of tolerance induction versus rejection.",
+    "year": 2009,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 gene expression in a tuberculosis case contact study.",
+    "year": 2007,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Trafficking of FoxP3+ regulatory T cells: myths and facts",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Influence of FOXP3 on CD4+CD25+ regulatory T cells.",
+    "year": 2006,
+    "citations": 1,
+    "references": 40
+  },
+  {
+    "title": "Evaluation of FOXP3 expression in canine mammary gland tumours.",
+    "year": 2014,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "CD4 (+)CD25 (+)Foxp3 (+) regulatory T cells and hematologic malignancies.",
+    "year": 2010,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "FoxP3-expressing T regulatory cells in atopic dermatitis lesions.",
+    "year": 2007,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Methylation matters: binding of Ets-1 to the demethylated Foxp3 gene contributes to the stabilization of Foxp3 expression in regulatory T cells",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ regulatory T cells in antiretroviral-naive HIV patients.",
+    "year": 2006,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Helios Enhances Treg Cell Function in Cooperation With FoxP3.",
+    "year": 2015,
+    "citations": 10,
+    "references": 42
+  },
+  {
+    "title": "Effects of Natalizumab Treatment on Foxp3+ T Regulatory Cells",
+    "year": 2008,
+    "citations": 13,
+    "references": 39
+  },
+  {
+    "title": "Role of Foxp3-positive regulatory T cells during infection.",
+    "year": 2008,
+    "citations": 39,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 methylation status in children with primary immune thrombocytopenia.",
+    "year": 2014,
+    "citations": 0,
+    "references": 37
+  },
+  {
+    "title": "Evaluation of FoxP3 expression in peripheral T-cell lymphoma.",
+    "year": 2008,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "CTLA-4 control over Foxp3+ regulatory T cell function.",
+    "year": 2008,
+    "citations": 582,
+    "references": 0
+  },
+  {
+    "title": "Gastrointestinal Foxp3 expression in normal, inflammatory and neoplastic conditions.",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "CD4+FoxP3+ regulatory T-cells in cerebral ischemic stroke",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 polymorphisms in type 1 diabetes and coeliac disease.",
+    "year": 2006,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ Treg Cells and Gender Bias in Autoimmune Diseases",
+    "year": 2015,
+    "citations": 5,
+    "references": 156
+  },
+  {
+    "title": "Genetic polymorphisms of Foxp3 in patients with rheumatoid arthritis.",
+    "year": 2015,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "FoxP3: a genetic link between immunodeficiency and autoimmune diseases.",
+    "year": 2006,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells: Current controversies and future perspectives.",
+    "year": 2006,
+    "citations": 32,
+    "references": 0
+  },
+  {
+    "title": "Molecular mechanisms underlying FOXP3 induction in human T cells.",
+    "year": 2006,
+    "citations": 101,
+    "references": 53
+  },
+  {
+    "title": "Transgene IL-6 Enhances DC-Stimulated CTL Responses by Counteracting CD4+25+Foxp3+ Regulatory T Cell Suppression via IL-6-Induced Foxp3 Downregulation",
+    "year": 2014,
+    "citations": 2,
+    "references": 53
+  },
+  {
+    "title": "IL-4 inhibits TGF-beta-induced Foxp3+ T cells and, together with TGF-beta, generates IL-9+ IL-10+ Foxp3(-) effector T cells.",
+    "year": 2008,
+    "citations": 248,
+    "references": 38
+  },
+  {
+    "title": "Parallel expansion of human virus-specific FoxP3- effector memory and de novo-generated FoxP3+ regulatory CD8+ T cells upon antigen recognition in vitro.",
+    "year": 2007,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "Intense Foxp3+ CD25+ regulatory T-cell infiltration is associated with high-grade cutaneous squamous cell carcinoma and counterbalanced by CD8+/Foxp3+ CD25+ ratio.",
+    "year": 2015,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Th17 cells express interleukin-10 receptor and are controlled by Foxp3⁻ and Foxp3+ regulatory CD4+ T cells in an interleukin-10-dependent manner.",
+    "year": 2011,
+    "citations": 110,
+    "references": 50
+  },
+  {
+    "title": "Seminal fluid regulates accumulation of FOXP3+ regulatory T cells in the preimplantation mouse uterus through expanding the FOXP3+ cell pool and CCL19-mediated recruitment.",
+    "year": 2011,
+    "citations": 17,
+    "references": 0
+  },
+  {
+    "title": "Increased numbers of CD5+CD19+CD1dhighIL-10+ Bregs, CD4+Foxp3+ Tregs, CD4+CXCR5+Foxp3+ follicular regulatory T (TFR) cells in CHB or CHC patients",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "[Expression and methylation status of Foxp3 in human hepatocellular carcinoma].",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Rapid Temporal Control of Foxp3 Protein Degradation by Sirtuin-1",
+    "year": 2011,
+    "citations": 16,
+    "references": 37
+  },
+  {
+    "title": "In vivo-activated CD103+ Foxp3+ Tregs: of men and mice.",
+    "year": 2009,
+    "citations": 1,
+    "references": 9
+  },
+  {
+    "title": "The Foxp3 interactome: a network perspective of T(reg) cells.",
+    "year": 2012,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Polymorphisms in the FOXP3 gene in Han Chinese psoriasis patients.",
+    "year": 2010,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "Depletion of FOXP3+ regulatory T cells promotes hypercholesterolemia and atherosclerosis.",
+    "year": 2013,
+    "citations": 77,
+    "references": 47
+  },
+  {
+    "title": "FoxP3 rs3761548 polymorphism predicts autoimmune disease susceptibility: a meta-analysis.",
+    "year": 2013,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 identifies regulatory CD25bright CD4+ T cells in rheumatic joints.",
+    "year": 2006,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "Characterization of FOXP3+CD4+ regulatory T cells in Crohn's disease.",
+    "year": 2007,
+    "citations": 44,
+    "references": 0
+  },
+  {
+    "title": "Increased CD127 expression on activated FOXP3+CD4+ regulatory T cells.",
+    "year": 2010,
+    "citations": 25,
+    "references": 2
+  },
+  {
+    "title": "Tumor FOXP3 represses the expression of long noncoding RNA 7SL.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Prognostic impact of FOXP3 expression in triple-negative breast cancer.",
+    "year": 2013,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "Downregulation of FOXP3 inhibits invasion and immune escape in cholangiocarcinoma.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "CD4+ Foxp3+ T-cells contribute to myocardial ischemia-reperfusion injury.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "CD4(+)CD25(hi)Foxp3(+) Cells Exacerbate Bleomycin-Induced Pulmonary Fibrosis.",
+    "year": 2016,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Advantages of Foxp3+ regulatory T cell depletion using DEREG mice",
+    "year": 2014,
+    "citations": 5,
+    "references": 22
+  },
+  {
+    "title": "Genetic and epigenetic studies of FOXP3 in asthma and allergy",
+    "year": 2015,
+    "citations": 0,
+    "references": 83
+  },
+  {
+    "title": "Molecular cloning and expression analysis of Foxp3 from Nile tilapia.",
+    "year": 2013,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "TGF-beta-induced Foxp3+ regulatory T cells rescue scurfy mice.",
+    "year": 2008,
+    "citations": 32,
+    "references": 0
+  },
+  {
+    "title": "CCR5+T-bet+FoxP3+ Effector CD4 T Cells Drive Atherosclerosis.",
+    "year": 2016,
+    "citations": 8,
+    "references": 67
+  },
+  {
+    "title": "Human FoxP3(+)CD4(+) regulatory T cells: their knowns and unknowns.",
+    "year": 2011,
+    "citations": 42,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression in T regulatory cells and other cell lineages",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Histone acetyltransferase mediated regulation of FOXP3 acetylation and Treg function.",
+    "year": 2010,
+    "citations": 22,
+    "references": 82
+  },
+  {
+    "title": "FOXP3 Promoter Demethylation Reveals the Committed Treg Population in Humans",
+    "year": 2008,
+    "citations": 57,
+    "references": 42
+  },
+  {
+    "title": "Epigenetic features of FoxP3 in children with cow’s milk allergy",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Natural and induced T CD4+CD25+FOXP3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "IL-2 signaling and CD4+ CD25+ Foxp3+ regulatory T cells.",
+    "year": 2008,
+    "citations": 26,
+    "references": 0
+  },
+  {
+    "title": "Localization of IL-17+Foxp3+ T cells in esophageal cancer.",
+    "year": 2011,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Which type of inflammation can be controlled by Foxp3+ Tregs?",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Identifying Foxp3-expressing suppressor T cells with a bicistronic reporter.",
+    "year": 2005,
+    "citations": 189,
+    "references": 0
+  },
+  {
+    "title": "Up-regulation of Foxp3 participates in progression of cervical cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Epigenetic modification of FOXP3 in patients with chronic HIV infection.",
+    "year": 2014,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Epigenetic Control of the foxp3 Locus in Regulatory T Cells ",
+    "year": 2007,
+    "citations": 315,
+    "references": 47
+  },
+  {
+    "title": "Advances in distinguishing natural from induced Foxp3(+) regulatory T cells.",
+    "year": 2013,
+    "citations": 22,
+    "references": 56
+  },
+  {
+    "title": "[Research progress in heterogeneity of human CD4(+)FOXP3(+)T cells].",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ Tregs require WASP to restrain Th2-mediated food allergy.",
+    "year": 2016,
+    "citations": 6,
+    "references": 57
+  },
+  {
+    "title": "Triptolide promotes generation of FoxP3+ T regulatory cells in rats.",
+    "year": 2009,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Differentiation of regulatory Foxp3+ T cells in the thymic cortex.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Impaired T cell receptor signaling in Foxp3+ CD4 T cells.",
+    "year": 2007,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Myeloid-derived suppressor cells from tumor-bearing mice impair TGF-β-induced differentiation of CD4+CD25+FoxP3+ Tregs from CD4+CD25-FoxP3- T cells.",
+    "year": 2012,
+    "citations": 20,
+    "references": 0
+  },
+  {
+    "title": "Human Umbilical Vein Endothelial Cells foster conversion of CD4+CD25−Foxp3− T cells into CD4+Foxp3+ Regulatory T Cells via Transforming Growth Factor-β",
+    "year": 2016,
+    "citations": 1,
+    "references": 37
+  },
+  {
+    "title": "The Ratios of CD8+ T Cells to CD4+CD25+ FOXP3+ and FOXP3- T Cells Correlate with Poor Clinical Outcome in Human Serous Ovarian Cancer",
+    "year": 2013,
+    "citations": 24,
+    "references": 42
+  },
+  {
+    "title": "Eomesodermin Expression in CD4+ T Cells Restricts Peripheral Foxp3 Induction.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 Subcellular Localization Predicts Recurrence in Oral Squamous Cell Carcinoma",
+    "year": 2013,
+    "citations": 2,
+    "references": 30
+  },
+  {
+    "title": "[Association of FOXP3 gene polymorphism in Chinese women with endometriosis].",
+    "year": 2013,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ Regulatory T Cells Control Persistence of Viral CNS Infection",
+    "year": 2012,
+    "citations": 7,
+    "references": 42
+  },
+  {
+    "title": "Vitamin A metabolites induce gut-homing FoxP3+ regulatory T cells.",
+    "year": 2007,
+    "citations": 77,
+    "references": 0
+  },
+  {
+    "title": "Adipose tissue macrophages induce PPARγ-high FOXP3+ regulatory T cells",
+    "year": 2015,
+    "citations": 0,
+    "references": 27
+  },
+  {
+    "title": "Neuropilin-1 is not a marker of human Foxp3+ Treg.",
+    "year": 2009,
+    "citations": 40,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 Controls Regulatory T Cell Function through Cooperation with NFAT",
+    "year": 2006,
+    "citations": 298,
+    "references": 50
+  },
+  {
+    "title": "Lineage stability and phenotypic plasticity of Foxp3⁺ regulatory T cells.",
+    "year": 2014,
+    "citations": 18,
+    "references": 116
+  },
+  {
+    "title": "[CD4+CD25+Foxp3+ T lymphocytes: naturally occuring regulatory T cells].",
+    "year": 2010,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Crocetin Activates Foxp3 Through TIPE2 in Asthma-Associated Treg Cells.",
+    "year": 2015,
+    "citations": 3,
+    "references": 34
+  },
+  {
+    "title": "IPEX, FOXP3 and regulatory T-cells: a model for autoimmunity.",
+    "year": 2007,
+    "citations": 30,
+    "references": 0
+  },
+  {
+    "title": "Melanoma induces immunosuppression by up-regulating FOXP3(+) regulatory T cells.",
+    "year": 2007,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 expression in tumor cells and implications for cancer progression.",
+    "year": 2013,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "CD4(+)FoxP3(+) regulatory T-cells in human systemic lupus erythematosus.",
+    "year": 2012,
+    "citations": 2,
+    "references": 46
+  },
+  {
+    "title": "FOXP3 actively represses transcription by recruiting the HAT/HDAC complex.",
+    "year": 2007,
+    "citations": 21,
+    "references": 0
+  },
+  {
+    "title": "[Measurement of Foxp3 and NFAT1 in children with aplastic anemia].",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Runx-CBFβ complexes control Foxp3 expression in regulatory T cells",
+    "year": 2009,
+    "citations": 7,
+    "references": 5
+  },
+  {
+    "title": "Wilms’ tumor susceptibility: possible involvement of FOXP3 and CXCL12 genes",
+    "year": 2016,
+    "citations": 1,
+    "references": 40
+  },
+  {
+    "title": "Regulation of Treg functionality by acetylation-mediated Foxp3 protein stabilization.",
+    "year": 2010,
+    "citations": 68,
+    "references": 37
+  },
+  {
+    "title": "Rheumatoid arthritis: TNF disables TREG-cell function through FOXP3 modification.",
+    "year": 2013,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Lack of Foxp3 function and expression in the thymic epithelium",
+    "year": 2007,
+    "citations": 27,
+    "references": 22
+  },
+  {
+    "title": "CD4+CD25high Foxp3+ regulatory T cells in myelodysplastic syndrome (MDS).",
+    "year": 2007,
+    "citations": 46,
+    "references": 15
+  },
+  {
+    "title": "Role of regulatory T cells and FOXP3 in human diseases.",
+    "year": 2007,
+    "citations": 59,
+    "references": 0
+  },
+  {
+    "title": "Synovial and peripheral blood CD4+FoxP3+ T cells in spondyloarthritis.",
+    "year": 2011,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Induction of Foxp3+ regulatory T cells with histone deacetylase inhibitors.",
+    "year": 2009,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "FoxP3, GATA-3 and T-bet expression in elderly asthma.",
+    "year": 2011,
+    "citations": 8,
+    "references": 20
+  },
+  {
+    "title": "Control of Uterine Microenvironment by Foxp3+ Cells Facilitates Embryo Implantation",
+    "year": 2013,
+    "citations": 8,
+    "references": 24
+  },
+  {
+    "title": "HTLV-1 bZIP Factor Induces Inflammation through Labile Foxp3 Expression",
+    "year": 2013,
+    "citations": 18,
+    "references": 47
+  },
+  {
+    "title": "Ontogeny of Tumor-associated CD4+CD25+Foxp3+ T-regulatory Cells.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "The control of CD4+CD25+Foxp3+ regulatory T cell survival",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Cross-presentation by osteoclasts induces FoxP3 in CD8+ T cells.",
+    "year": 2009,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression in breast cancer patient from Qatar: survival analysis",
+    "year": 2015,
+    "citations": 0,
+    "references": 2
+  },
+  {
+    "title": "Foxp3 protein stability is regulated by cyclin-dependent kinase 2.",
+    "year": 2013,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Interleukin-7 Influences FOXP3+CD4+ Regulatory T Cells Peripheral Homeostasis",
+    "year": 2012,
+    "citations": 13,
+    "references": 48
+  },
+  {
+    "title": "Foxp3 Expression in Macrophages Associated with RENCA Tumors in Mice",
+    "year": 2014,
+    "citations": 4,
+    "references": 20
+  },
+  {
+    "title": "Foxp3 gene expression in oral lichen planus: a clinicopathological study.",
+    "year": 2014,
+    "citations": 2,
+    "references": 43
+  },
+  {
+    "title": "The role of Foxp3+ regulatory T cells in kidney transplantation.",
+    "year": 2009,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Inducible CD4+LAP+Foxp3- regulatory T cells suppress allergic inflammation.",
+    "year": 2011,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+CD4+ T cell-mediated immunosuppression involves extracellular nucleotide catabolism.",
+    "year": 2008,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Three Distinct Domains Contribute to Nuclear Transport of Murine Foxp3",
+    "year": 2009,
+    "citations": 11,
+    "references": 28
+  },
+  {
+    "title": "Transcriptional partners in regulatory T cells: Foxp3, Runx and NFAT.",
+    "year": 2007,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "PI3 kinase signalling blocks Foxp3 expression by sequestering Foxo factors",
+    "year": 2010,
+    "citations": 40,
+    "references": 33
+  },
+  {
+    "title": "Regulation of Foxp3+ inducible regulatory T cell stability by SOCS2.",
+    "year": 2013,
+    "citations": 5,
+    "references": 57
+  },
+  {
+    "title": "FOXP3+CD25- tumor cells with regulatory function in Sézary syndrome.",
+    "year": 2009,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Regulatory CD4+Foxp3+ T Cells Control the Severity of Anaphylaxis",
+    "year": 2013,
+    "citations": 5,
+    "references": 36
+  },
+  {
+    "title": "Antigen-non-specific regulation centered on CD25+Foxp3+ Treg cells.",
+    "year": 2010,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ regulatory T cells maintain immune homeostasis in the skin",
+    "year": 2008,
+    "citations": 44,
+    "references": 26
+  },
+  {
+    "title": "Characterization of human invariant natural killer T cells expressing FoxP3.",
+    "year": 2011,
+    "citations": 9,
+    "references": 63
+  },
+  {
+    "title": "Rare development of Foxp3+ thymocytes in the CD4+CD8+ subset.",
+    "year": 2009,
+    "citations": 20,
+    "references": 24
+  },
+  {
+    "title": "The immunosuppressive enzyme IL4I1 promotes FoxP3(+) regulatory T lymphocyte differentiation.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Genetic polymorphisms of FOXP3 in Italian patients with systemic sclerosis.",
+    "year": 2013,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "IL-6 positively regulates Foxp3+CD8+ T cells in vivo.",
+    "year": 2010,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells in children with helicobacter pylori infection.",
+    "year": 2012,
+    "citations": 1,
+    "references": 30
+  },
+  {
+    "title": "Foxp3 expression in patients with non-small cell lung cancer.",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD25-Foxp3+ T cells: a marker for lupus nephritis?",
+    "year": 2014,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Targeting Foxp3+ regulatory T cells-related immunosuppression for cancer immunotherapy.",
+    "year": 2010,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 can modulate TAL1 transcriptional activity through interaction with LMO2.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Enhanced suppressor function of TIM-3+ FoxP3+ regulatory T cells.",
+    "year": 2014,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Foxp3-positive macrophages display immunosuppressive properties and promote tumor growth",
+    "year": 2011,
+    "citations": 18,
+    "references": 39
+  },
+  {
+    "title": "Development of thymic Foxp3(+) regulatory T cells: TGF-β matters.",
+    "year": 2015,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Intranuclear interactomic inhibition of FoxP3 suppresses functions of Treg cells.",
+    "year": 2014,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Domain requirements for the diverse immune regulatory functions of foxp3.",
+    "year": 2011,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Developmental plasticity of murine and human Foxp3(+) regulatory T cells.",
+    "year": 2013,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "CD8+ Foxp3+ regulatory T cells mediate immunosuppression in prostate cancer.",
+    "year": 2007,
+    "citations": 79,
+    "references": 13
+  },
+  {
+    "title": "Regulatory T cell development in the absence of functional Foxp3.",
+    "year": 2007,
+    "citations": 114,
+    "references": 0
+  },
+  {
+    "title": "Glucocorticoids upregulate FOXP3 expression and regulatory T cells in asthma.",
+    "year": 2004,
+    "citations": 102,
+    "references": 0
+  },
+  {
+    "title": "FoxP3+ T cells can be expanded from rejecting cardiac allografts.",
+    "year": 2006,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression is associated with aggressiveness in differentiated thyroid carcinomas",
+    "year": 2012,
+    "citations": 20,
+    "references": 33
+  },
+  {
+    "title": "Foxp3 Interacts with c-Rel to Mediate NF-κB Repression",
+    "year": 2011,
+    "citations": 11,
+    "references": 40
+  },
+  {
+    "title": "Association of FOXP3 expression with non-small cell lung cancer.",
+    "year": 2011,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ follicular regulatory T cells control the germinal center response.",
+    "year": 2011,
+    "citations": 217,
+    "references": 40
+  },
+  {
+    "title": "Decreased FOXP3 expression in small airways of smokers with COPD.",
+    "year": 2009,
+    "citations": 17,
+    "references": 23
+  },
+  {
+    "title": "Evaluation of CD4+ CD25+ FoxP3+ Regulatory T cells and FoxP3 and CTLA-4 gene Expression in Patients wwith Newly Diagnosed Tuberculosis in Northeast of Iran",
+    "year": 2015,
+    "citations": 1,
+    "references": 14
+  },
+  {
+    "title": "Both CD4+ FoxP3+ and CD4+ FoxP3- T cells from patients with B-cell malignancy express cytolytic markers and kill autologous leukaemic B cells in vitro.",
+    "year": 2011,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Restoration of Foxp3+ Regulatory T-cell Subsets and Foxp3- Type 1 Regulatory-like T Cells in Inflammatory Bowel Diseases During Anti-tumor Necrosis Factor Therapy.",
+    "year": 2015,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Gene-environment interactions between CD14 C-260T and endotoxin exposure on Foxp3+ and Foxp3- CD4+ lymphocyte numbers and total serum IgE levels in early childhood.",
+    "year": 2008,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Segregated regulatory CD39+CD4+ T cell function: TGF-β-producing Foxp3- and IL-10-producing Foxp3+ cells are interdependent for protection against collagen-induced arthritis.",
+    "year": 2011,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Lower proportions of CD4+CD25(high) and CD4+FoxP3, but not CD4+CD25+CD127(low) FoxP3+ T cell levels in children with autoimmune thyroid diseases.",
+    "year": 2013,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "In vivo depletion of FoxP3+ Tregs using the DEREG mouse model.",
+    "year": 2011,
+    "citations": 46,
+    "references": 0
+  },
+  {
+    "title": "CD4+FOXP3+ Regulatory T-Cell Subsets in Human Immunodeficiency Virus Infection",
+    "year": 2013,
+    "citations": 9,
+    "references": 107
+  },
+  {
+    "title": "Cell penetrating recombinant Foxp3 protein enhances Treg function and ameliorates arthritis.",
+    "year": 2013,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Critical role of heme oxygenase-1 in Foxp3-mediated immune suppression.",
+    "year": 2005,
+    "citations": 31,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells affect the development and progression of hepatocarcinogenesis.",
+    "year": 2007,
+    "citations": 112,
+    "references": 5
+  },
+  {
+    "title": "Molecular gastronomy: how to make the critical intestinal Foxp3+ Treg cell.",
+    "year": 2011,
+    "citations": 0,
+    "references": 8
+  },
+  {
+    "title": "IL-1β promotes Th17 differentiation by inducing alternative splicing of FOXP3",
+    "year": 2015,
+    "citations": 3,
+    "references": 39
+  },
+  {
+    "title": "High prevalence of Foxp3 and IL17 in MMR-proficient colorectal carcinomas.",
+    "year": 2008,
+    "citations": 0,
+    "references": 2
+  },
+  {
+    "title": "Missed, Not Missing: Phylogenomic Evidence for the Existence of Avian FoxP3",
+    "year": 2016,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Expansion and function of Foxp3-expressing T regulatory cells during tuberculosis",
+    "year": 2007,
+    "citations": 78,
+    "references": 54
+  },
+  {
+    "title": "The role of Foxp3+ regulatory T cells in liver transplant tolerance.",
+    "year": 2006,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Is FOXP3 a bona fide marker for human regulatory T cells?",
+    "year": 2008,
+    "citations": 43,
+    "references": 0
+  },
+  {
+    "title": "Studying IFN-gamma, IL-17 and FOXP3 in pediatric lupus nephritis",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "[Levels of CD4+ and FOXP3+ lymphocytes in patients with allergic rhinitis].",
+    "year": 2013,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Analysis of FOXP3 gene in children with allergy and autoimmune diseases.",
+    "year": 2016,
+    "citations": 0,
+    "references": 34
+  },
+  {
+    "title": "Endogenous FOXP3 inhibits cell proliferation, migration and invasion in glioma cells.",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Analysis of FOXP3 polymorphisms in infertile women with and without endometriosis.",
+    "year": 2011,
+    "citations": 17,
+    "references": 0
+  },
+  {
+    "title": "Transient expression of FOXP3 in human activated nonregulatory CD4+ T cells.",
+    "year": 2007,
+    "citations": 250,
+    "references": 0
+  },
+  {
+    "title": "Flt3 ligand expands CD4+ FoxP3+ regulatory T cells in human subjects.",
+    "year": 2013,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Notch1 signaling is involved in regulating Foxp3 expression in T-ALL",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "The lifestyle of naturally occurring CD4+ CD25+ Foxp3+ regulatory T cells.",
+    "year": 2006,
+    "citations": 137,
+    "references": 0
+  },
+  {
+    "title": "Histone/protein deacetylase inhibitors increase suppressive functions of human FOXP3+ Tregs.",
+    "year": 2010,
+    "citations": 23,
+    "references": 0
+  },
+  {
+    "title": "Experimentally induced accumulation of Foxp3⁺ T cells in upper airway allergy.",
+    "year": 2011,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "FoxP3+RORgammat+ T helper intermediates display suppressive function against autoimmune diabetes.",
+    "year": 2010,
+    "citations": 25,
+    "references": 0
+  },
+  {
+    "title": "Scurfy, the Foxp3 locus, and the molecular basis of peripheral tolerance.",
+    "year": 2008,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Inflammation-induced repression of Foxp3-bound chromatin in regulatory T cells",
+    "year": 2014,
+    "citations": 0,
+    "references": 38
+  },
+  {
+    "title": "Retraction. Foxp3-positive macrophages display immunosuppressive properties and promote tumor growth.",
+    "year": 2011,
+    "citations": 1,
+    "references": 39
+  },
+  {
+    "title": "Dendritic cells as controllers of antigen-specific Foxp3+ regulatory T cells.",
+    "year": 2009,
+    "citations": 39,
+    "references": 0
+  },
+  {
+    "title": "Altered B cell development and anergy in the absence of Foxp3.",
+    "year": 2010,
+    "citations": 13,
+    "references": 40
+  },
+  {
+    "title": "Foxp3+ Regulatory T Cells in Mouse Models of Type 1 Diabetes",
+    "year": 2013,
+    "citations": 4,
+    "references": 65
+  },
+  {
+    "title": "The pathogen recognition receptor NOD2 regulates human FOXP3+ T cell survival.",
+    "year": 2010,
+    "citations": 11,
+    "references": 45
+  },
+  {
+    "title": "Messenger RNA for FOXP3 in the urine of renal-allograft recipients.",
+    "year": 2005,
+    "citations": 101,
+    "references": 38
+  },
+  {
+    "title": "Kinetics of Foxp3-expressing regulatory cells in experimental Toxocara canis infection.",
+    "year": 2011,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Deficient CD4+ CD25+ FOXP3+ T regulatory cells in acquired aplastic anemia.",
+    "year": 2007,
+    "citations": 37,
+    "references": 19
+  },
+  {
+    "title": "[Foxp3-transfected CD4+ CD25- T cells suppress function of dendritic cells].",
+    "year": 2008,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ T cells inhibit antitumor immune memory modulated by mTOR inhibition.",
+    "year": 2014,
+    "citations": 8,
+    "references": 44
+  },
+  {
+    "title": "Osteoclast-induced Foxp3+ CD8 T-cells limit bone loss in mice.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "[Correlation between FoxP3(+) regulatory T cells and chronic obstructive pulmonary disease].",
+    "year": 2008,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Identification of regulatory Foxp3+ invariant NKT cells induced by TGF-beta.",
+    "year": 2010,
+    "citations": 32,
+    "references": 0
+  },
+  {
+    "title": "Association of two clones allows for optimal detection of human FOXP3.",
+    "year": 2010,
+    "citations": 14,
+    "references": 46
+  },
+  {
+    "title": "Construction and Production of Foxp3-Fc (IgG) DNA Vaccine/Fusion Protein",
+    "year": 2016,
+    "citations": 0,
+    "references": 30
+  },
+  {
+    "title": "Subcellular localization of FOXP3 in human regulatory and nonregulatory T cells.",
+    "year": 2012,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "FoxP3, Helios, and SATB1: roles and relationships in regulatory T cells.",
+    "year": 2013,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 and natural regulatory T cells: key to a cell lineage?",
+    "year": 2003,
+    "citations": 99,
+    "references": 0
+  },
+  {
+    "title": "CXCR4+FOXP3+CD25+ lymphocytes accumulate in CXCL12-expressing malignant pleural mesothelioma.",
+    "year": 2009,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Sodium chloride inhibits the suppressive function of FOXP3+ regulatory T cells.",
+    "year": 2015,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "Regulation of FoxP3+ Regulatory T Cells and Th17 Cells by Retinoids",
+    "year": 2008,
+    "citations": 16,
+    "references": 153
+  },
+  {
+    "title": "Inflammation negatively regulates FOXP3 and regulatory T-cell function via DBC1.",
+    "year": 2015,
+    "citations": 6,
+    "references": 40
+  },
+  {
+    "title": "Foxp3 expression is required for the induction of therapeutic tissue tolerance.",
+    "year": 2012,
+    "citations": 8,
+    "references": 34
+  },
+  {
+    "title": "Proliferation and foxp3 expression in virus-specific memory CD8+ T lymphocytes.",
+    "year": 2008,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Functional dynamics of Foxp3⁺ regulatory T cells in mice and humans.",
+    "year": 2014,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 is required throughout the life of a regulatory T cell.",
+    "year": 2007,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 defines regulatory T cells in human tumor and autoimmune disease.",
+    "year": 2009,
+    "citations": 60,
+    "references": 30
+  },
+  {
+    "title": "Human CD4+ FOXP3+ regulatory T cells produce CXCL8 and recruit neutrophils.",
+    "year": 2011,
+    "citations": 17,
+    "references": 18
+  },
+  {
+    "title": "Genetic Susceptibility to Multiple Sclerosis: The Role of FOXP3 Gene Polymorphism.",
+    "year": 2014,
+    "citations": 0,
+    "references": 28
+  },
+  {
+    "title": "Prognostic impact on FOXP3 expression in triple-negative breast cancer (TNBC).",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3(+) regulatory T cells are expanded in severe atopic dermatitis patients.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Foxp3(+)  regulatory T cells, immune stimulation and host defence against infection.",
+    "year": 2012,
+    "citations": 21,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 expression in duodenal mucosa in pediatric patients with celiac disease.",
+    "year": 2010,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Presence of FOXP3(+)Treg cells is correlated with colorectal cancer progression.",
+    "year": 2014,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Control of regulatory T cell development by the transcription factor Foxp3.",
+    "year": 2003,
+    "citations": 1991,
+    "references": 0
+  },
+  {
+    "title": "Synergy between IL-6 and TGF-β signaling promotes FOXP3 degradation.",
+    "year": 2012,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Cutting edge: CD4-independent development of functional FoxP3+ regulatory T cells.",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 and Treg cells in HIV-1 infection and immuno-pathogenesis.",
+    "year": 2008,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "CD28 costimulation regulates FOXP3 in a RelA/NF-κB-dependent mechanism.",
+    "year": 2011,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Expression of GARP selectively identifies activated human FOXP3+ regulatory T cells.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 expression of micrometastasis-positive sentinel nodes in breast cancer patients.",
+    "year": 2009,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Mammalian Sterile 20-like Kinase 1 (Mst1) Enhances the Stability of Forkhead Box P3 (Foxp3) and the Function of Regulatory T Cells by Modulating Foxp3 Acetylation.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "A sensitive protocol for FOXP3 epigenetic analysis in scarce human samples.",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "The prognostic value of FOXP3+ T regulatory cells in colorectal cancer.",
+    "year": 2015,
+    "citations": 2,
+    "references": 28
+  },
+  {
+    "title": "GATA3 controls Foxp3⁺ regulatory T cell fate during inflammation in mice.",
+    "year": 2011,
+    "citations": 87,
+    "references": 0
+  },
+  {
+    "title": "Sensitive detection of Foxp3 expression in bovine lymphocytes by flow cytometry.",
+    "year": 2010,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Molecular cloning and characterization of Foxp3 in Atlantic salmon (Salmo salar).",
+    "year": 2011,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 Polymorphism and gene expression in Italian patients with Kawasaki Syndrome",
+    "year": 2008,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Genetic variants of FOXP3 influence graft survival in kidney transplant patients.",
+    "year": 2013,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "The role of FOXP3 in disease progression in colorectal cancer patients",
+    "year": 2013,
+    "citations": 5,
+    "references": 10
+  },
+  {
+    "title": "Osteoclast Activated FoxP3+ CD8+ T-Cells Suppress Bone Resorption in vitro",
+    "year": 2012,
+    "citations": 10,
+    "references": 26
+  },
+  {
+    "title": "56 Increased Frequency of CD4+ CD25+ FOXP3- in Allergic Conjunctivitis Patients",
+    "year": 2012,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Human Embryonic Stem Cell Lines with Lesions in FOXP3 and NF1.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Immunohistochemical analysis of FoxP3+ cells in periapical granulomas and radicular cysts.",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Vaccination against the forkhead family transcription factor Foxp3 enhances tumor immunity.",
+    "year": 2007,
+    "citations": 36,
+    "references": 49
+  },
+  {
+    "title": "Foxp3+-inducible regulatory T cells suppress endothelial activation and leukocyte recruitment.",
+    "year": 2011,
+    "citations": 21,
+    "references": 50
+  },
+  {
+    "title": "TNF-alpha: an activator of CD4+FoxP3+TNFR2+ regulatory T cells.",
+    "year": 2010,
+    "citations": 27,
+    "references": 0
+  },
+  {
+    "title": "Genetic tools for analysis of FoxP3+ regulatory T cells in vivo.",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Identification of new FOXP3 mutations and prenatal diagnosis of IPEX syndrome.",
+    "year": 2010,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Identification of IL-17-producing FOXP3+ regulatory T cells in humans.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Vagaries of Fluorochrome Reporter Gene Expression in Foxp3+ Regulatory T Cells",
+    "year": 2012,
+    "citations": 2,
+    "references": 38
+  },
+  {
+    "title": "CD101 surface expression discriminates potency among murine FoxP3+ regulatory T cells.",
+    "year": 2007,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Roles of Foxp3 in the occurrence and development of cervical cancer.",
+    "year": 2015,
+    "citations": 6,
+    "references": 23
+  },
+  {
+    "title": "From IPEX syndrome to FOXP3 mutation: a lesson on immune dysregulation.",
+    "year": 2016,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "A function for interleukin 2 in Foxp3-expressing regulatory T cells.",
+    "year": 2005,
+    "citations": 522,
+    "references": 0
+  },
+  {
+    "title": "Effect of hyperlipidemia on Foxp3 expression in apolipoprotein E-knockout mice.",
+    "year": 2014,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Identification of Foxp3⁺ T follicular regulatory (Tfr) cells by flow cytometry.",
+    "year": 2015,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Association of Foxp3 regulatory gene expression with graft-versus-host disease.",
+    "year": 2004,
+    "citations": 68,
+    "references": 46
+  },
+  {
+    "title": "Effect of HIF1α on Foxp3 expression in CD4+ CD25- T lymphocytes.",
+    "year": 2014,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Genetic Polymorphisms of Foxp3 and IL-17A In Inflammatory Periodontal Disease",
+    "year": 2016,
+    "citations": 0,
+    "references": 18
+  },
+  {
+    "title": "FOXP3 modifies the phenotypic and functional properties of regulatory T cells.",
+    "year": 2007,
+    "citations": 75,
+    "references": 0
+  },
+  {
+    "title": "RUNX1 and FOXP3 interplay regulates expression of breast cancer related genes",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Tonsillar CD4+FOXP3+ T-regulatory cell dynamics in primary EBV infection.",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Regulatory T cell lineage specification by the forkhead transcription factor foxp3.",
+    "year": 2005,
+    "citations": 637,
+    "references": 0
+  },
+  {
+    "title": "The presence of IL-17+/FOXP3+ double-positive cells in periodontitis.",
+    "year": 2012,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Association between FOXP3 polymorphisms and vitiligo in a Han Chinese population.",
+    "year": 2013,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "TLR7 signaling exacerbates CNS autoimmunity through downregulation of Foxp3+ Treg cells.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Smad3 and NFAT cooperate to induce Foxp3 expression through its enhancer.",
+    "year": 2008,
+    "citations": 199,
+    "references": 0
+  },
+  {
+    "title": "Alteration of CD4+CD25+Foxp3+ T cell level in Kawasaki disease",
+    "year": 2011,
+    "citations": 1,
+    "references": 11
+  },
+  {
+    "title": "Foxo proteins cooperatively control the differentiation of Foxp3+ regulatory T cells.",
+    "year": 2010,
+    "citations": 111,
+    "references": 18
+  },
+  {
+    "title": "Foxp3+ Regulatory T Cells Are Required for Recovery from Severe Sepsis",
+    "year": 2013,
+    "citations": 5,
+    "references": 75
+  },
+  {
+    "title": "Identification of lesional CD4+ CD25+ Foxp3+ regulatory T cells in Psoriasis.",
+    "year": 2006,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Association between FOXP3 promoter polymorphisms and cancer risk: A meta-analysis",
+    "year": 2014,
+    "citations": 4,
+    "references": 24
+  },
+  {
+    "title": "Characterization of Th17 and FoxP3(+) Treg Cells in Paediatric Psoriasis Patients.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Role of CD8+ CD25+ Foxp3+ regulatory T cells in multiple sclerosis.",
+    "year": 2010,
+    "citations": 34,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ Lymphocyte Density in Pancreatic Cancer Correlates with Lymph Node Metastasis",
+    "year": 2014,
+    "citations": 6,
+    "references": 21
+  },
+  {
+    "title": "FOXP3+ T-cell Subsets Are Associated with Distinct Colon Cancer Prognoses.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Limitations of Foxp3(+) Treg depletion following viral infection in DEREG mice.",
+    "year": 2014,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Distribution of Foxp3(+) T-regulatory cells in experimental autoimmune neuritis rats.",
+    "year": 2009,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "X-chromosome inactivation analysis in a female carrier of FOXP3 mutation.",
+    "year": 2002,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Eos mediates Foxp3-dependent gene silencing in CD4+ regulatory T cells.",
+    "year": 2009,
+    "citations": 70,
+    "references": 0
+  },
+  {
+    "title": "Thymic selection and lineage commitment of CD4(+)Foxp3(+) regulatory T lymphocytes.",
+    "year": 2010,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Hyperexpression of Foxp3 and IDO during acute rejection of islet allografts.",
+    "year": 2007,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Transcriptional regulation of Foxp3 gene: multiple signal pathways on the road.",
+    "year": 2009,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Allergy-related changes in levels of CD8+CD25+FoxP3(bright) Treg cells and FoxP3 mRNA expression in peripheral blood: the role of IL-10 or TGF-beta.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Connexin 43 signaling enhances the generation of Foxp3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 9,
+    "references": 57
+  },
+  {
+    "title": "Physiologic control of the functional status of Foxp3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Structural aspects of the FOXP3 regulatory complex as an immunopharmacological target.",
+    "year": 2009,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Is liver-targeted FOXp3 staining beneficial after living-donor liver transplantation?",
+    "year": 2012,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Pertussis toxin reduces the number of splenic Foxp3+ regulatory T cells.",
+    "year": 2006,
+    "citations": 16,
+    "references": 73
+  },
+  {
+    "title": "Quantification of hepatic FOXP3+ T‐lymphocytes in HIV/hepatitis C coinfection",
+    "year": 2014,
+    "citations": 1,
+    "references": 8
+  },
+  {
+    "title": "CD4+CD25+Foxp3 regulatory T cells and vascular dysfunction in hypertension.",
+    "year": 2013,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "TGF-beta induces Foxp3 + T-regulatory cells from CD4 + CD25 - precursors.",
+    "year": 2004,
+    "citations": 102,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 germline polymorphisms are not associated with risk of breast cancer.",
+    "year": 2009,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Relationship between Foxp3-3279 (rs376158) polymorphism and dust mite allergic conjunctivitis.",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "GARP: a key receptor controlling FOXP3 in human regulatory T cells",
+    "year": 2009,
+    "citations": 34,
+    "references": 52
+  },
+  {
+    "title": "Paracoccidioidomycosis: cells expressing IL17 and Foxp3 in cutaneous and mucosal lesions.",
+    "year": 2011,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Notch3 and canonical NF-kappaB signaling pathways cooperatively regulate Foxp3 transcription.",
+    "year": 2011,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 controls regulatory T-cell function by interacting with AML1/Runx1.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Functional defects in CD4+ CD25high FoxP3+ regulatory cells in ankylosing spondylitis",
+    "year": 2016,
+    "citations": 0,
+    "references": 37
+  },
+  {
+    "title": "Nonself-antigens are the cognate specificities of Foxp3+ regulatory T cells.",
+    "year": 2007,
+    "citations": 91,
+    "references": 46
+  },
+  {
+    "title": "Endogenous foxp3(+) T-regulatory cells suppress anti-glomerular basement membrane nephritis.",
+    "year": 2011,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Study of circulating antibodies against CD25 and FOXP3 in breast cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "ATG-induced expression of FOXP3 in human CD4(+) T cells in vitro is associated with T-cell activation and not the induction of FOXP3(+) T regulatory cells.",
+    "year": 2009,
+    "citations": 13,
+    "references": 20
+  },
+  {
+    "title": "JEG-3 Trophoblast Cells Producing Human Chorionic Gonadotropin Promote Conversion of Human CD4+FOXP3- T Cells into CD4+FOXP3+ Regulatory T Cells and Foster T Cell Suppressive Activity.",
+    "year": 2016,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "The suppression of murine lupus by a tolerogenic peptide involves foxp3-expressing CD8 cells that are required for the optimal induction and function of foxp3-expressing CD4 cells.",
+    "year": 2008,
+    "citations": 18,
+    "references": 38
+  },
+  {
+    "title": "Gamma-ray resistance of regulatory CD4+CD25+Foxp3+ T cells in mice.",
+    "year": 2010,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Expansion of circulating Foxp3+)D25bright CD4+ T cells during specific venom immunotherapy.",
+    "year": 2008,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "CD147 (Basigin/Emmprin) identifies FoxP3+CD45RO+CTLA4+-activated human regulatory T cells.",
+    "year": 2011,
+    "citations": 19,
+    "references": 50
+  },
+  {
+    "title": "Induced and thymus-derived Foxp3⁺ regulatory T cells share a common niche.",
+    "year": 2014,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Epigenetic regulation of Foxp3 expression in regulatory T cells by DNA methylation.",
+    "year": 2009,
+    "citations": 0,
+    "references": 54
+  },
+  {
+    "title": "CD25- T cells generate CD25+Foxp3+ regulatory T cells by peripheral expansion.",
+    "year": 2004,
+    "citations": 3,
+    "references": 55
+  },
+  {
+    "title": "Cimetidine down-regulates stability of Foxp3 protein via Stub1 in Treg cells.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Regulatory potential and control of Foxp3 expression in newborn CD4+ T cells.",
+    "year": 2004,
+    "citations": 24,
+    "references": 0
+  },
+  {
+    "title": "Maintenance of immune tolerance by Foxp3+ regulatory T cells requires CD69 expression.",
+    "year": 2014,
+    "citations": 8,
+    "references": 43
+  },
+  {
+    "title": "Identification of circulating human antigen-reactive CD4+ FOXP3+ natural regulatory T cells.",
+    "year": 2012,
+    "citations": 9,
+    "references": 24
+  },
+  {
+    "title": "Foxp3 occupancy and regulation of key target genes during T-cell stimulation.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Phosphorylation of FOXP3 by LCK Downregulates MMP9 Expression and Represses Cell Invasion",
+    "year": 2013,
+    "citations": 4,
+    "references": 29
+  },
+  {
+    "title": "Clinical Heterogeneity in Patients With FOXP3 Mutations Presenting With Permanent Neonatal Diabetes ",
+    "year": 2009,
+    "citations": 19,
+    "references": 24
+  },
+  {
+    "title": "Role of Foxp3 and regulatory CD4+CD25+ T-lymphocytes in bronchial asthma.",
+    "year": 2008,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "MicroRNA 182 inhibits CD4+CD25+Foxp3+ Treg differentiation in experimental autoimmune encephalomyelitis.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Generation of T cell hybridomas from naturally occurring FoxP3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "The dual role of the X-linked FoxP3 gene in human cancers.",
+    "year": 2011,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Human colonic myofibroblasts promote expansion of CD4+ CD25high Foxp3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 12,
+    "references": 8
+  },
+  {
+    "title": "The effects of Foxp3 on gene expression profiles in activated microglial cells",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Diverse foxp3 expression in children with type 1 diabetes and celiac disease.",
+    "year": 2008,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Identification of CD4+CD25 high Foxp3+ T cells in ovine peripheral blood.",
+    "year": 2011,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ regulatory T cells promiscuously accept thymic signals critical for their development.",
+    "year": 2008,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "A function for IL-7R for CD4+CD25+Foxp3+ T regulatory cells.",
+    "year": 2008,
+    "citations": 29,
+    "references": 41
+  },
+  {
+    "title": "Immunomodulatory effects of deacetylase inhibitors: therapeutic targeting of FOXP3+ regulatory T cells.",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Inhibition of Foxp3 in cancer cells induces apoptosis of thyroid cancer cells.",
+    "year": 2015,
+    "citations": 9,
+    "references": 39
+  },
+  {
+    "title": "Foxp3+ cells control Th2 responses in a murine model of atopic dermatitis.",
+    "year": 2012,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "PARP-1 Controls Immunosuppressive Function of Regulatory T Cells by Destabilizing Foxp3",
+    "year": 2013,
+    "citations": 7,
+    "references": 30
+  },
+  {
+    "title": "Increased frequency of Foxp3+ regulatory T cells in mice with hepatocellular carcinoma.",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Transcription factor Foxp3 and its protein partners form a complex regulatory network",
+    "year": 2012,
+    "citations": 78,
+    "references": 37
+  },
+  {
+    "title": "FOXP3+ and CD39+ regulatory T cells in subtypes of cutaneous lupus erythematosus.",
+    "year": 2015,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Relationship between FOXP3 positive populations and cytokine production in systemic lupus erythematosus.",
+    "year": 2013,
+    "citations": 2,
+    "references": 35
+  },
+  {
+    "title": "Association between FOXP3 polymorphisms and susceptibility to autoimmune diseases: A meta-analysis.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Identification and characterization of Foxp3(+) gammadelta T cells in mouse and human.",
+    "year": 2009,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 promoter polymorphism (rs3761548) in breast cancer progression: a study from India",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ regulatory T cells impede the priming of protective CD8+ T cells.",
+    "year": 2011,
+    "citations": 4,
+    "references": 58
+  },
+  {
+    "title": "IdentifICATION OF E3 ubiquitin ligase STUB1 as a negative regulator of FOXP3",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "[Expression of Foxp3 in CD4+CD25high Treg cells of neonatal cord blood].",
+    "year": 2008,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "TCR ligand density and affinity determine peripheral induction of Foxp3 in vivo",
+    "year": 2010,
+    "citations": 86,
+    "references": 15
+  },
+  {
+    "title": "Diversification and senescence of Foxp3+ regulatory T cells during experimental autoimmune encephalomyelitis.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Anti-CD25 treatment and FOXP3-positive regulatory T cells in heart transplantation.",
+    "year": 2007,
+    "citations": 5,
+    "references": 36
+  },
+  {
+    "title": "CD8alpha+ dendritic cells prime TCR-peptide-reactive regulatory CD4+FOXP3- T cells.",
+    "year": 2010,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "The prognostic value of Foxp3+ tumor-infiltrating lymphocytes in patients with glioblastoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Selective depletion of Foxp3+ regulatory T cells induces a scurfy-like disease",
+    "year": 2007,
+    "citations": 287,
+    "references": 28
+  },
+  {
+    "title": "Negative Feedback Regulation of T Cells via Interleukin-2 and FOXP3 Reciprocity",
+    "year": 2008,
+    "citations": 10,
+    "references": 62
+  },
+  {
+    "title": "FOXP3 is a novel transcriptional repressor for the breast cancer oncogene SKP2.",
+    "year": 2007,
+    "citations": 70,
+    "references": 0
+  },
+  {
+    "title": "Migration and function of FoxP3+ regulatory T cells in the hematolymphoid system.",
+    "year": 2006,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "Increased number of FoxP3+CD4+ regulatory T cells in inflammatory bowel disease.",
+    "year": 2008,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "In situ analysis of FOXP3+ regulatory T cells in human colorectal cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "[Phenotypical and functional characteristic of FoxP3(+);CD39(+); regulatory T cells in humans].",
+    "year": 2010,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression patterns in microscopic colitides: a clinicopathologic study of 69 patients.",
+    "year": 2012,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Renal cell carcinoma may evade the immune system by converting CD4+Foxp3- T cells into CD4+CD25+Foxp3+ regulatory T cells: Role of tumor COX-2-derived PGE2.",
+    "year": 2010,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "IL-2 Expression in Activated Human Memory FOXP3+ Cells Critically Depends on the Cellular Levels of FOXP3 as Well as of Four Transcription Factors of  T Cell Activation",
+    "year": 2012,
+    "citations": 4,
+    "references": 29
+  },
+  {
+    "title": "Induction of FOXP3 expression in naive human CD4 FOXP3 T cells by T-cell receptor stimulation is transforming growth factor- –dependent but does not confer a regulatory phenotype",
+    "year": 2007,
+    "citations": 39,
+    "references": 40
+  },
+  {
+    "title": "Function of a Foxp3 cis-Element in Protecting Regulatory T Cell Identity",
+    "year": 2014,
+    "citations": 14,
+    "references": 58
+  },
+  {
+    "title": "HDAC5 controls the functions of Foxp3(+) T-regulatory and CD8(+) T cells.",
+    "year": 2016,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Genetic control of thymic development of CD4+CD25+FoxP3+ regulatory T lymphocytes.",
+    "year": 2005,
+    "citations": 1,
+    "references": 53
+  },
+  {
+    "title": "Cutting edge: primary B lymphocytes preferentially expand allogeneic FoxP3+ CD4 T cells.",
+    "year": 2007,
+    "citations": 26,
+    "references": 0
+  },
+  {
+    "title": "LncRNA DQ786243 affects Treg related CREB and Foxp3 expression in Crohn’s disease",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "CD4⁺Foxp3⁺ Treg and its ICOS⁺ subsets in patients with myocardial infarction.",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Normalization of FoxP3(+) regulatory T cells in response to effective antiretroviral therapy.",
+    "year": 2011,
+    "citations": 12,
+    "references": 14
+  },
+  {
+    "title": "FOXP3⁺ regulatory T cell development and function require histone/protein deacetylase 3.",
+    "year": 2015,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ regulatory T cells in the control of experimental CNS autoimmune disease.",
+    "year": 2008,
+    "citations": 45,
+    "references": 0
+  },
+  {
+    "title": "Exogenous IL-2 Induces FoxP3+ Th17 Cells In Vivo in Melanoma Patients.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "[The expression of IL-9, IL-17 and Foxp3 in nasal polyps].",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "The AKT–mTOR axis regulates de novo differentiation of CD4+Foxp3+ cells",
+    "year": 2008,
+    "citations": 179,
+    "references": 2
+  },
+  {
+    "title": "Adaptive Foxp3+ regulatory T cell-dependent and -independent control of allergic inflammation.",
+    "year": 2008,
+    "citations": 113,
+    "references": 50
+  },
+  {
+    "title": "Isoform-specific inhibition of ROR alpha-mediated transcriptional activation by human FOXP3.",
+    "year": 2008,
+    "citations": 60,
+    "references": 0
+  },
+  {
+    "title": "Lack of Foxp3+ macrophages in both untreated and B16 melanoma-bearing mice.",
+    "year": 2012,
+    "citations": 10,
+    "references": 6
+  },
+  {
+    "title": "Regulatory T cell-like activity of Foxp3+ adult T cell leukemia cells.",
+    "year": 2006,
+    "citations": 30,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 inhibits HDAC1 activity to modulate gene expression in human T cells.",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "[Changes of Foxp3(+); regulatory T cells in patients with acute coronary syndrome].",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Optimal Isolation of Functional Foxp3+ Induced Regulatory T Cells Using DEREG Mice",
+    "year": 2012,
+    "citations": 3,
+    "references": 26
+  },
+  {
+    "title": "FoxP3+ regulatory CD4 T cells control the generation of functional CD8 memory",
+    "year": 2012,
+    "citations": 8,
+    "references": 33
+  },
+  {
+    "title": "CD4+CD25+Foxp3+ T regulatory cells are not involved in oral desensitization.",
+    "year": 2010,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Inflammation-associated genes: risks and benefits to Foxp3+ regulatory T-cell function.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Genetic association study of polymorphisms FOXP3 and FCRL3 in women with endometriosis.",
+    "year": 2012,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "FOXP3-positive regulatory cells inside the allograft and the correlation with rejection.",
+    "year": 2006,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "MeCP2 enforces Foxp3 expression to promote regulatory T cells' resilience to inflammation.",
+    "year": 2014,
+    "citations": 4,
+    "references": 49
+  },
+  {
+    "title": "FOXP3 forkhead domain mutation and regulatory T cells in the IPEX syndrome.",
+    "year": 2009,
+    "citations": 23,
+    "references": 4
+  },
+  {
+    "title": "Foxp3 downregulation in NSCLC mediates epithelial-mesenchymal transition via NF-κB signaling.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Characterization of CD4+ FOXP3+ T-cell clones established from chronic inflammatory lesions.",
+    "year": 2008,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Early acceptance of renal allografts in mice is dependent on foxp3(+) cells.",
+    "year": 2011,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Th17 and Foxp3(+) T regulatory cell dynamics and distribution in myelodysplastic syndromes.",
+    "year": 2011,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Aire and Foxp3 expression in a particular microenvironment for T cell differentiation.",
+    "year": 2009,
+    "citations": 9,
+    "references": 29
+  },
+  {
+    "title": "Modified Foxp3 mRNA protects against asthma through an IL-10-dependent mechanism.",
+    "year": 2013,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 processing by proprotein convertases and control of regulatory T cell function.",
+    "year": 2009,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Clinical Outlook for Type-1 and FOXP3+ T Regulatory Cell-Based Therapy",
+    "year": 2015,
+    "citations": 6,
+    "references": 76
+  },
+  {
+    "title": "FOXP3 is a promising and potential candidate gene in generalised vitiligo susceptibility",
+    "year": 2015,
+    "citations": 1,
+    "references": 11
+  },
+  {
+    "title": "Foxp3+ regulatory T cells participate in repair of ischemic acute kidney injury.",
+    "year": 2009,
+    "citations": 63,
+    "references": 0
+  },
+  {
+    "title": "Antigen-specific FoxP3-transduced T-cells can control established type 1 diabetes.",
+    "year": 2005,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "CD28 facilitates the generation of Foxp3(-) cytokine responsive regulatory T cell precursors.",
+    "year": 2010,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "Nature and nurture in Foxp3(+) regulatory T cell development, stability, and function.",
+    "year": 2012,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Low-dose antigen promotes induction of FOXP3 in human CD4+ T cells.",
+    "year": 2011,
+    "citations": 12,
+    "references": 57
+  },
+  {
+    "title": "Space-relevant radiation modifies cytokine profiles, signaling proteins and Foxp3+ T cells.",
+    "year": 2013,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Origin and T cell receptor diversity of Foxp3+CD4+CD25+ T cells.",
+    "year": 2006,
+    "citations": 121,
+    "references": 0
+  },
+  {
+    "title": "CD4+ Foxp3+ regulatory T cells in autoimmune orchitis: phenotypic and functional characterization.",
+    "year": 2015,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "CD4(+)FoxP3(+) T regulatory cells in drug-susceptible and multidrug-resistant tuberculosis.",
+    "year": 2013,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "CXCL11-dependent induction of FOXP3-negative regulatory T cells suppresses autoimmune encephalomyelitis.",
+    "year": 2014,
+    "citations": 15,
+    "references": 63
+  },
+  {
+    "title": "PEG-rIL-10 treatment decreases FoxP3(+) Tregs despite upregulation of intratumoral IDO.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Forkhead box P3 (FOXP3) mRNA expression immediately after living-donor liver transplant.",
+    "year": 2009,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Identification of CD8+CD25+Foxp3+ suppressive T cells in colorectal cancer tissue.",
+    "year": 2009,
+    "citations": 76,
+    "references": 0
+  },
+  {
+    "title": "The human \"Treg MLR\": immune monitoring for FOXP3+ T regulatory cell generation.",
+    "year": 2009,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Noncanonical K27-linked polyubiquitination of TIEG1 regulates Foxp3 expression and tumor growth.",
+    "year": 2011,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 Represses Retroviral Transcription by Targeting Both NF-κB and CREB Pathways",
+    "year": 2006,
+    "citations": 25,
+    "references": 46
+  },
+  {
+    "title": "Malignant Tregs express low molecular splice forms of FOXP3 in Sézary syndrome.",
+    "year": 2008,
+    "citations": 21,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD25+Foxp3+ regulatory T cells in the pathophysiology of immune thrombocytopenia.",
+    "year": 2013,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "Comprehensive analysis of FOXP3 mRNA expression in leukemia and transformed cell lines.",
+    "year": 2008,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Expression of full-length and splice forms of FoxP3 in rheumatoid arthritis.",
+    "year": 2010,
+    "citations": 3,
+    "references": 35
+  },
+  {
+    "title": "Multipotent mesenchymal stromal cells express FoxP3: a marker for the immunosuppressive capacity?",
+    "year": 2011,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Parasitic Nematode-Induced CD4+Foxp3+T Cells Can Ameliorate Allergic Airway Inflammation",
+    "year": 2014,
+    "citations": 5,
+    "references": 41
+  },
+  {
+    "title": "Effects of Foxp3 gene modified dendritic cells on mouse corneal allograft rejection.",
+    "year": 2015,
+    "citations": 0,
+    "references": 29
+  },
+  {
+    "title": "Cutting edge: Broad expression of the FoxP3 locus in epithelial cells: a caution against early interpretation of fatal inflammatory diseases following in vivo depletion of FoxP3-expressing cells.",
+    "year": 2008,
+    "citations": 46,
+    "references": 17
+  },
+  {
+    "title": "Altered balance between self-reactive T helper (Th)17 cells and Th10 cells and between full-length forkhead box protein 3 (FoxP3) and FoxP3 splice variants in Hashimoto's thyroiditis.",
+    "year": 2015,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Induction of FOXP3 expression in naive human CD4+FOXP3 T cells by T-cell receptor stimulation is transforming growth factor-beta dependent but does not confer a regulatory phenotype.",
+    "year": 2007,
+    "citations": 190,
+    "references": 40
+  },
+  {
+    "title": "[Effects of Foxp3 knockdown on the functions of human regulatory T cells].",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Inhibition of FOXP3/NFAT Interaction Enhances T Cell Function after TCR Stimulation.",
+    "year": 2015,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Allergen provocation increases TH2-cytokines and FOXP3 expression in the asthmatic lung.",
+    "year": 2010,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Intragraft FOXP3 mRNA expression reflects antidonor immune reactivity in cardiac allograft patients.",
+    "year": 2007,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Pathogenic conversion of Foxp3+ T cells into TH17 cells in autoimmune arthritis.",
+    "year": 2014,
+    "citations": 120,
+    "references": 35
+  },
+  {
+    "title": "Kaempferol enhances the suppressive function of Treg cells by inhibiting FOXP3 phosphorylation.",
+    "year": 2015,
+    "citations": 4,
+    "references": 16
+  },
+  {
+    "title": "T cell receptor signaling controls Foxp3 expression via PI3K, Akt, and mTOR.",
+    "year": 2008,
+    "citations": 151,
+    "references": 39
+  },
+  {
+    "title": "Validated protocol for FoxP3 reveals increased expression in type 1 diabetes patients.",
+    "year": 2009,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "FoxP3 demethylation is increased in human colorectal cancer and rat cholangiocarcinoma tissue.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "In vitro induced CD4(+)CD25(+)Foxp3(+) Tregs attenuate hepatic ischemia-reperfusion injury.",
+    "year": 2009,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "The p.Arg63Trp polymorphism controls Vav1 functions and Foxp3 regulatory T cell development",
+    "year": 2011,
+    "citations": 3,
+    "references": 14
+  },
+  {
+    "title": "Origin and functions of pro-inflammatory cytokine producing Foxp3+ regulatory T cells.",
+    "year": 2015,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "High expression of FOXP3 in primary melanoma is associated with tumour progression.",
+    "year": 2014,
+    "citations": 8,
+    "references": 18
+  },
+  {
+    "title": "Incidence and prognostic impact of FoxP3+ regulatory T cells in human gliomas.",
+    "year": 2008,
+    "citations": 65,
+    "references": 15
+  },
+  {
+    "title": "High expression of Foxp3, IL-23p19 and survivin mRNA in colorectal carcinoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 overexpression decreases sensitivity to chemotherapy in mouse             Lewis lung cancer cells.",
+    "year": 2012,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Increased Foxp3+ regulatory T cells in poly(ADP-Ribose) polymerase-1 deficiency.",
+    "year": 2010,
+    "citations": 12,
+    "references": 33
+  },
+  {
+    "title": "Costimulation Blockade Induces Foxp3+ Regulatory T Cells to Human Embryonic Stem Cells",
+    "year": 2013,
+    "citations": 3,
+    "references": 12
+  },
+  {
+    "title": "Increased number and function of FoxP3 regulatory T cells during experimental arthritis.",
+    "year": 2008,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "FoxP3 and indoleamine 2,3-dioxygenase immunoreactivity in sentinel nodes from melanoma patients.",
+    "year": 2014,
+    "citations": 1,
+    "references": 31
+  },
+  {
+    "title": "FOXP3 over-expression inhibits melanoma tumorigenesis via effects on proliferation and apoptosis.",
+    "year": 2014,
+    "citations": 14,
+    "references": 47
+  },
+  {
+    "title": "FOXP3(+)Treg/Th17 cell imbalance in lung tissues of mice with asthma.",
+    "year": 2015,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "The origin of FOXP3-expressing CD4+ regulatory T cells: thymus or periphery.",
+    "year": 2003,
+    "citations": 49,
+    "references": 18
+  },
+  {
+    "title": "Foxp3 programs the development and function of CD4+CD25+ regulatory T cells.",
+    "year": 2003,
+    "citations": 1825,
+    "references": 0
+  },
+  {
+    "title": "Prognostic value of tumor-infiltrating Foxp3+ T-cell subpopulations in metastatic melanoma.",
+    "year": 2011,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Stimulation Enhances T Cell Function after TCR Inhibition of FOXP3/NFAT Interaction",
+    "year": 2015,
+    "citations": 0,
+    "references": 49
+  },
+  {
+    "title": "Paradoxical roles of Foxp3+ T cells during infection: from regulators to regulators.",
+    "year": 2008,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Defective regulatory and effector T cell functions in patients with FOXP3 mutations.",
+    "year": 2006,
+    "citations": 114,
+    "references": 0
+  },
+  {
+    "title": "Imbalanced signal transduction in regulatory T cells expressing the transcription factor FoxP3.",
+    "year": 2015,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Allogeneic induced human FOXP3(+)IFN-gamma(+) T cells exhibit selective suppressive capacity.",
+    "year": 2009,
+    "citations": 12,
+    "references": 37
+  },
+  {
+    "title": "Comment on \"Expression of Helios in peripherally induced Foxp3+ regulatory T cells\".",
+    "year": 2012,
+    "citations": 3,
+    "references": 28
+  },
+  {
+    "title": "Use of epigenetic modification to induce FOXP3 expression in naïve T cells.",
+    "year": 2009,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Regulation of the germinal center reaction by Foxp3+ follicular regulatory T cells.",
+    "year": 2011,
+    "citations": 66,
+    "references": 27
+  },
+  {
+    "title": "Foxp3+ Helios+ regulatory T cells are expanded in active systemic lupus erythematosus.",
+    "year": 2013,
+    "citations": 21,
+    "references": 0
+  },
+  {
+    "title": "T Regulatory Cells in Cord Blood—FOXP3 Demethylation as Reliable Quantitative Marker",
+    "year": 2010,
+    "citations": 12,
+    "references": 35
+  },
+  {
+    "title": "Allergen-specific responses of CD19(+)CD5(+)Foxp3(+) regulatory B cells (Bregs) and CD4(+)Foxp3(+) regulatory T cell (Tregs) in immune tolerance of cow milk allergy of late eczematous reactions.",
+    "year": 2012,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Dynamic behavior and function of Foxp3+ regulatory T cells in tumor bearing host.",
+    "year": 2009,
+    "citations": 32,
+    "references": 101
+  },
+  {
+    "title": "The role of STAT3 in antigen-IgG inducing regulatory CD4(+)Foxp3(+)T cells.",
+    "year": 2007,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "GITR subverts Foxp3+ Tregs to boost Th9 immunity through regulation of histone acetylation",
+    "year": 2015,
+    "citations": 10,
+    "references": 42
+  },
+  {
+    "title": "Expression of Granulysin and FOXP3 in Cutaneous T Cell Lymphoma and Sézary Syndrome.",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Expression of FOXP3 in esophageal squamous cell carcinoma relating to the clinical data.",
+    "year": 2010,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Functional adaptive CD4 Foxp3 T cells develop in MHC class II-deficient mice.",
+    "year": 2006,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 immunohistochemistry on formalin-fixed paraffin-embedded tissue: poor correlation between different antibodies.",
+    "year": 2008,
+    "citations": 12,
+    "references": 0
+  },
+  {
+    "title": "Expression of Foxp3, TGF-β and IL-10 in American cutaneous leishmaniasis lesions",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Expression analysis of Foxp3 in T cells from bovine leukemia virus infected cattle.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Resolving the identity myth: key markers of functional CD4+FoxP3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "CD4+Foxp3+ regulatory T cells in the control of autoimmunity: in vivo veritas.",
+    "year": 2008,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "FoxP3+ regulatory T cells in peripheral blood of patients with epithelial ovarian cancer.",
+    "year": 2014,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Somatic single hits inactivate the X-linked tumor suppressor FOXP3 in the prostate.",
+    "year": 2009,
+    "citations": 52,
+    "references": 57
+  },
+  {
+    "title": "Regulatory T-cell functions are subverted and converted owing to attenuated Foxp3 expression.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "CD8+ CD205+ splenic dendritic cells are specialized to induce Foxp3+ regulatory T cells.",
+    "year": 2008,
+    "citations": 130,
+    "references": 77
+  },
+  {
+    "title": "Prevention of allograft rejection by amplification of Foxp3(+)CD4(+)CD25(+) regulatory T cells.",
+    "year": 2009,
+    "citations": 5,
+    "references": 116
+  },
+  {
+    "title": "Where FoxP3-dependent regulatory T cells impinge on the development of inflammatory arthritis.",
+    "year": 2007,
+    "citations": 39,
+    "references": 46
+  },
+  {
+    "title": "Enhanced FoxP3 expression and Treg cell function in pregnant and estrogen-treated mice.",
+    "year": 2005,
+    "citations": 40,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD25+Foxp3+ regulatory T cells induce alternative activation of human monocytes/macrophages.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Control of Foxp3+ CD25+CD4+ regulatory cell activation and function by dendritic cells.",
+    "year": 2004,
+    "citations": 73,
+    "references": 0
+  },
+  {
+    "title": "Changes of CD4+CD25+Foxp3+ regulatory T cells in aged Balb/c mice.",
+    "year": 2007,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD62L+ Central Memory T Cells Can Be Converted to Foxp3+ T Cells",
+    "year": 2013,
+    "citations": 7,
+    "references": 50
+  },
+  {
+    "title": "The Foxp3+ regulatory T cell: a jack of all trades, master of regulation.",
+    "year": 2008,
+    "citations": 256,
+    "references": 64
+  },
+  {
+    "title": "Dexamethasone suppresses allergic rhinitis and amplifies CD4(+) Foxp3(+) regulatory T cells in vitro.",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "The regulatory T cell-associated transcription factor FoxP3 is expressed by tumor cells.",
+    "year": 2008,
+    "citations": 56,
+    "references": 29
+  },
+  {
+    "title": "Synergistic effect of TGF-beta superfamily members on the induction of Foxp3+ Treg.",
+    "year": 2010,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "CD44 induces FOXP3 expression and is related with favorable outcome in breast carcinoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "CD4+FOXP3+ T regulatory cells in human autoimmunity: more than a numbers game.",
+    "year": 2011,
+    "citations": 50,
+    "references": 97
+  },
+  {
+    "title": "Expression of CTLA-4 and FOXP3 in cis protects from lethal lymphoproliferative disease.",
+    "year": 2007,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Imbalance of different types of CD4(+)Foxp3(+) T cells in renal transplant recipients.",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Antigen-specific induced Foxp3+ regulatory T cells are generated following CD40/CD154 blockade.",
+    "year": 2011,
+    "citations": 18,
+    "references": 42
+  },
+  {
+    "title": "CD90(+) human dermal stromal cells are potent inducers of FoxP3(+) regulatory T cells.",
+    "year": 2015,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Vitamin C Facilitates Demethylation of the Foxp3 Enhancer in a Tet-Dependent Manner.",
+    "year": 2016,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Functional plasticity in human FOXP3(+) regulatory T cells: implications for cell-based immunotherapy.",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Expansion of CD4+ CD25+ Foxp3+ T cells by bone marrow-derived dendritic cells.",
+    "year": 2009,
+    "citations": 5,
+    "references": 20
+  },
+  {
+    "title": "FOXP3, a selective marker for a subset of adult T-cell leukaemia/lymphoma.",
+    "year": 2005,
+    "citations": 27,
+    "references": 0
+  },
+  {
+    "title": "Genetic association study of FOXP3 polymorphisms in allergic rhinitis in a Chinese population.",
+    "year": 2009,
+    "citations": 14,
+    "references": 8
+  },
+  {
+    "title": "Global impairment of CD4+CD25+FOXP3+ regulatory T cells in idiopathic pulmonary fibrosis.",
+    "year": 2009,
+    "citations": 36,
+    "references": 0
+  },
+  {
+    "title": "Immunotherapy of rat glioma without accumulation of CD4+CD25+FOXP3+ regulatory T cells☆",
+    "year": 2012,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Resting B cells expand a CD4+CD25+Foxp3+ Treg population via TGF-beta3.",
+    "year": 2008,
+    "citations": 21,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 instability leads to the generation of pathogenic memory T cells in vivo",
+    "year": 2009,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Oligodeoxynucleotides stabilize Helios-expressing Foxp3+ human T regulatory cells during in vitro expansion.",
+    "year": 2012,
+    "citations": 29,
+    "references": 21
+  },
+  {
+    "title": "Phenotypically non-suppressive cells predominate among FoxP3-positive cells in oral lichen planus.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Neuropilin 1 deficiency on CD4+Foxp3+ regulatory T cells impairs mouse melanoma growth",
+    "year": 2012,
+    "citations": 41,
+    "references": 50
+  },
+  {
+    "title": "Helios, and not FoxP3, is the marker of activated Tregs expressing GARP/LAP",
+    "year": 2015,
+    "citations": 13,
+    "references": 46
+  },
+  {
+    "title": "Expression of PD-1 (CD279) and FoxP3 in diffuse large B-cell lymphoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Local \"on-demand\" generation and function of antigen-specific Foxp3+ regulatory T cells.",
+    "year": 2013,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD25+Foxp3+ regulatory T cells: from basic research to potential therapeutic use.",
+    "year": 2007,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Genome-wide identification of human FOXP3 target genes in natural regulatory T cells.",
+    "year": 2010,
+    "citations": 23,
+    "references": 84
+  },
+  {
+    "title": "Pathological and clinical correlates of FOXP3+ cells in renal allografts during acute rejection.",
+    "year": 2007,
+    "citations": 32,
+    "references": 0
+  },
+  {
+    "title": "Therapeutic potential of FOXP3(+) regulatory T cells and their interactions with dendritic cells.",
+    "year": 2009,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "The role of NF-kappaB and Smad3 in TGF-beta-mediated Foxp3 expression.",
+    "year": 2009,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Cytokine profile, Foxp3 and nuclear factor-kB ligand levels in multiple sclerosis subtypes.",
+    "year": 2011,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "RORC2 is involved in T cell polarization through interaction with the FOXP3 promoter.",
+    "year": 2010,
+    "citations": 18,
+    "references": 62
+  },
+  {
+    "title": "Fatal autoimmunity in mice reconstituted with human hematopoietic stem cells encoding defective FOXP3.",
+    "year": 2015,
+    "citations": 4,
+    "references": 56
+  },
+  {
+    "title": "Indoleamine 2,3-dioxygenase and foxp3 expression in skin rejection of human hand allografts.",
+    "year": 2009,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression in lesions of the different clinical forms of American tegumentary leishmaniasis.",
+    "year": 2009,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Immunohistochemical analysis of FoxP3+ regulatory T cells in lower lip squamous cell carcinomas.",
+    "year": 2016,
+    "citations": 0,
+    "references": 15
+  },
+  {
+    "title": "Foxp3-transduced polyclonal regulatory T cells protect against chronic renal injury from adriamycin.",
+    "year": 2006,
+    "citations": 15,
+    "references": 45
+  },
+  {
+    "title": "Strategies to cure experimental autoimmune colitis using antigen-specific Foxp3+ regulatory T cells.",
+    "year": 2008,
+    "citations": 1,
+    "references": 25
+  },
+  {
+    "title": "Development of Foxp3(+) regulatory t cells is driven by the c-Rel enhanceosome.",
+    "year": 2009,
+    "citations": 95,
+    "references": 45
+  },
+  {
+    "title": "OX40 controls islet allograft tolerance in CD154 deficient mice by regulating FOXP3+ Tregs.",
+    "year": 2008,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Notch signaling regulates the FOXP3 promoter through RBP-J- and Hes1-dependent mechanisms",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Milk: a postnatal imprinting system stabilizing FoxP3 expression and regulatory T cell differentiation.",
+    "year": 2016,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "CD8(+)Foxp3(+) T cells in peripheral blood of relapsing-remitting multiple sclerosis patients.",
+    "year": 2010,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Distribution of CD4+ CD25 high FoxP3+ regulatory T-cells in umbilical cord blood.",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "CD4⁺CD25⁺Foxp3⁺ regulatory T cells suppress cardiac fibrosis in the hypertensive heart.",
+    "year": 2011,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "Grass pollen immunotherapy induces Foxp3-expressing CD4+ CD25+ cells in the nasal mucosa.",
+    "year": 2008,
+    "citations": 54,
+    "references": 0
+  },
+  {
+    "title": "[Role of CD4+CD25+Foxp3+ regulatory T cells in type 2 diabetic nephropathy].",
+    "year": 2009,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "Lung-resident tissue macrophages generate Foxp3+ regulatory T cells and promote airway tolerance",
+    "year": 2013,
+    "citations": 50,
+    "references": 53
+  },
+  {
+    "title": "[Expression of Foxp3 mRNA in peripheral blood monocytes in patients after kidney transplantation].",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Glucocorticoids increase CD4CD25 cell percentage and Foxp3 expression in patients with multiple sclerosis.",
+    "year": 2009,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Immunohistochemical investigation of Foxp3 expression in the intestine in healthy and diseased dogs",
+    "year": 2012,
+    "citations": 7,
+    "references": 104
+  },
+  {
+    "title": "Salvia miltiorrhiza increases the expression of transcription factor Foxp3 in experimental murine colitis.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Interleukin 4 Inhibits Tgf-β-induced-foxp3 + T Cells and Generates, in Combination with Tgf-β, Foxp3 − Effector T Cells That Produce Interleukins 9 and 10 Hhs Public Access Introduction",
+    "year": 2016,
+    "citations": 0,
+    "references": 39
+  },
+  {
+    "title": "Foxp3: a critical regulator of the development and function of regulatory T cells.",
+    "year": 2004,
+    "citations": 68,
+    "references": 0
+  },
+  {
+    "title": "Correlation between elevated FOXP3 expression and increased lymph node metastasis of gastric cancer.",
+    "year": 2010,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Tumor-infiltrating FOXP3+ T regulatory cells show strong prognostic significance in colorectal cancer.",
+    "year": 2009,
+    "citations": 241,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ Regulatory T-cells and IL-2: The Moirai of T-cell Fates?",
+    "year": 2012,
+    "citations": 9,
+    "references": 48
+  },
+  {
+    "title": "Natural killer cells prevent CD28-mediated Foxp3 transcription in CD4+CD25- T lymphocytes.",
+    "year": 2007,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Genetic association of FOXP3 gene polymorphisms with allograft rejection in renal transplant patients.",
+    "year": 2012,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "The forkhead transcription factor, FOXP3: a critical role in male fertility in mice.",
+    "year": 2014,
+    "citations": 0,
+    "references": 31
+  },
+  {
+    "title": "FOXP3+ regulatory T-cells in chronic kidney disease: molecular pathways and clinical implications.",
+    "year": 2009,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Circulating IgG antibody against FOXP3 may be a potential biomarker for lung cancer",
+    "year": 2013,
+    "citations": 1,
+    "references": 29
+  },
+  {
+    "title": "Infected site-restricted Foxp3+ natural regulatory T cells are specific for microbial antigens",
+    "year": 2006,
+    "citations": 103,
+    "references": 40
+  },
+  {
+    "title": "FOXP3 expression following bone marrow transplantation for IPEX syndrome after reduced-intensity conditioning.",
+    "year": 2009,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "An in vivo IL-7 requirement for peripheral Foxp3+ regulatory T cell homeostasis.",
+    "year": 2012,
+    "citations": 10,
+    "references": 40
+  },
+  {
+    "title": "FOXP3-miR-146-NF-κB Axis and Therapy for Precancerous Lesions in Prostate.",
+    "year": 2015,
+    "citations": 7,
+    "references": 46
+  },
+  {
+    "title": "FOXP3(+)  regulatory and TIA-1(+)  cytotoxic T lymphocytes in HIV-associated Hodgkin lymphoma.",
+    "year": 2012,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Idd9.1 Locus Controls the Suppressive Activity of FoxP3+CD4+CD25+ Regulatory T-Cells",
+    "year": 2010,
+    "citations": 13,
+    "references": 45
+  },
+  {
+    "title": "Detection of Foxp3+ cells on biopsies of kidney transplants with early acute rejection.",
+    "year": 2007,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "End-stage renal failure and regulatory activities of CD4+CD25bright+FoxP3+ T-cells.",
+    "year": 2009,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "Sirtuin-1 targeting promotes Foxp3+ T-regulatory cell function and prolongs allograft survival.",
+    "year": 2011,
+    "citations": 30,
+    "references": 0
+  },
+  {
+    "title": "Reduced Foxp3 expression with increased cytomegalovirus-specific CTL in HTLV-I-associated myelopathy.",
+    "year": 2008,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Improved Anti-Treg Vaccination Targeting Foxp3 Efficiently Decreases Regulatory T Cells in Mice.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "The role of FoxP3+CD4+CD25hi Tregs in the pathogenesis of myasthenia gravis.",
+    "year": 2009,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Study of Treg FOXP3 in childhood bronchial asthma in relation to corticosteroid therapy",
+    "year": 2012,
+    "citations": 0,
+    "references": 16
+  },
+  {
+    "title": "Trichinella spiralis Infection Suppressed Gut Inflammation with CD4+CD25+Foxp3+ T Cell Recruitment",
+    "year": 2012,
+    "citations": 5,
+    "references": 28
+  },
+  {
+    "title": "Increase in circulating Foxp3+CD4+CD25high regulatory T cells in nasopharyngeal carcinoma patients",
+    "year": 2007,
+    "citations": 26,
+    "references": 18
+  },
+  {
+    "title": "Phenotype and function of tissue-resident unconventional Foxp3-expressing CD4(+) regulatory T cells.",
+    "year": 2015,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Two functional subsets of FOXP3+ regulatory T cells in human thymus and periphery.",
+    "year": 2008,
+    "citations": 126,
+    "references": 54
+  },
+  {
+    "title": "Human CD4+ CD25+ Foxp3+ regulatory T cells do not constitutively express IL-35.",
+    "year": 2008,
+    "citations": 42,
+    "references": 0
+  },
+  {
+    "title": "Roles of CD4+CD25(high) FOXP3+ Tregs in lymphomas and tumors are complex.",
+    "year": 2008,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Th 17 cells interplay with Foxp3+ Tregs in regulation of inflammation and autoimmunity.",
+    "year": 2010,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 overexpression in tumor cells predicts poor survival in oral squamous cell carcinoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Dietary folic acid promotes survival of Foxp3+ regulatory T cells in the colon.",
+    "year": 2012,
+    "citations": 15,
+    "references": 0
+  },
+  {
+    "title": "Association of FOXP3 (rs3761548) promoter polymorphism with nondermatomal vitiligo: A study from India.",
+    "year": 2013,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "UXT is a novel regulatory factor of regulatory T cells associated with Foxp3",
+    "year": 2014,
+    "citations": 1,
+    "references": 25
+  },
+  {
+    "title": "Biochemistry and therapeutic implications of mechanisms involved in FOXP3 activity in immune suppression.",
+    "year": 2007,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Targeting CD4+CD25+FoxP3+ regulatory T-cells for the augmentation of cancer immunotherapy.",
+    "year": 2007,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "[Construction and expression of the self-inactivating lentiviral vector containing Murine Foxp3 gene].",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 gene polymorphism is associated with hepatitis B-related hepatocellular carcinoma in China",
+    "year": 2013,
+    "citations": 11,
+    "references": 23
+  },
+  {
+    "title": "Altered homeostasis of CD4(+) FoxP3(+) regulatory T-cell subpopulations in systemic lupus erythematosus.",
+    "year": 2009,
+    "citations": 23,
+    "references": 0
+  },
+  {
+    "title": "Coexpression of CD25 and CD27 identifies FoxP3+ regulatory T cells in inflamed synovia",
+    "year": 2005,
+    "citations": 126,
+    "references": 46
+  },
+  {
+    "title": "Circulating level of CD4+ CD25+ FOXP3+ T cells in patients with chronic urticaria.",
+    "year": 2014,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Molecular mechanisms underlying the regulation and functional plasticity of FOXP3(+) regulatory T cells.",
+    "year": 2012,
+    "citations": 10,
+    "references": 169
+  },
+  {
+    "title": "Follicular regulatory T cells expressing Foxp3 and Bcl-6 suppress germinal center reactions.",
+    "year": 2011,
+    "citations": 177,
+    "references": 28
+  },
+  {
+    "title": "Antigen-dependent suppression of alloresponses by Foxp3-induced regulatory T cells in transplantation.",
+    "year": 2005,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "Protein geranylgeranylation regulates the balance between Th17 cells and Foxp3+ regulatory T cells.",
+    "year": 2009,
+    "citations": 18,
+    "references": 29
+  },
+  {
+    "title": "RORC and Foxp3 axis in cerebrospinal fluid of patients with neuro-Behçet's disease.",
+    "year": 2011,
+    "citations": 19,
+    "references": 0
+  },
+  {
+    "title": "Immunomagnetic isolation of CD4+CD25+FoxP3+ natural T regulatory lymphocytes for clinical applications.",
+    "year": 2009,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "Peripherally circulating CD4⁺ FOXP3⁺ CXCR3⁺ T regulatory cells correlate with renal allograft function.",
+    "year": 2012,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "IL-15-dependent balance between Foxp3 and RORγt expression impacts inflammatory bowel disease",
+    "year": 2016,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Structural and biological features of FOXP3 dimerization relevant to regulatory T cell function.",
+    "year": 2012,
+    "citations": 9,
+    "references": 44
+  },
+  {
+    "title": "Fenofibrate Enhances the In Vitro Differentiation of Foxp3+ Regulatory T Cells in Mice",
+    "year": 2012,
+    "citations": 2,
+    "references": 26
+  },
+  {
+    "title": "CD161 defines the subset of FoxP3+ T cells capable of producing proinflammatory cytokines.",
+    "year": 2013,
+    "citations": 28,
+    "references": 45
+  },
+  {
+    "title": "Induction of Foxp3 expression in T cells by cellulose acetate beads in vitro.",
+    "year": 2010,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Fyn promotes Th17 differentiation by regulating the kinetics of RORγt and Foxp3 expression.",
+    "year": 2012,
+    "citations": 6,
+    "references": 59
+  },
+  {
+    "title": "FOXP3 genetic variant and risk of acute coronary syndrome in Chinese Han population.",
+    "year": 2013,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Levels of Foxp3 in regulatory T cells reflect their functional status in transplantation.",
+    "year": 2009,
+    "citations": 49,
+    "references": 25
+  },
+  {
+    "title": "TCR-dependent differentiation of thymic Foxp3+ cells is limited to small clonal sizes",
+    "year": 2009,
+    "citations": 51,
+    "references": 14
+  },
+  {
+    "title": "FOXP3 regulates sensitivity of cancer cells to irradiation by transcriptional repression of BRCA1.",
+    "year": 2013,
+    "citations": 8,
+    "references": 45
+  },
+  {
+    "title": "Prostate cancer with different ERG status may show different FOXP3-positive cell numbers.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Mucosal FOXP3+ regulatory T cells are numerically deficient in acute and chronic GvHD.",
+    "year": 2006,
+    "citations": 63,
+    "references": 36
+  },
+  {
+    "title": "Rapamycin promotes the expansion of CD4(+) Foxp3(+) regulatory T cells after liver transplantation.",
+    "year": 2010,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Mucosal FOXP3-expressing CD4+ CD25high regulatory T cells in Helicobacter pylori-infected patients.",
+    "year": 2005,
+    "citations": 70,
+    "references": 35
+  },
+  {
+    "title": "Platelet-derived growth factor-producing CD4+ Foxp3+ regulatory T lymphocytes promote lung fibrosis.",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 Exploits a Pre-Existent Enhancer Landscape for Regulatory T Cell Lineage Specification",
+    "year": 2012,
+    "citations": 95,
+    "references": 44
+  },
+  {
+    "title": "FoxP3+ and IL-17+ cells are correlated with improved prognosis in cervical adenocarcinoma",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "A novel function for FOXP3 in humans: intrinsic regulation of conventional T cells.",
+    "year": 2013,
+    "citations": 11,
+    "references": 42
+  },
+  {
+    "title": "The role of 2 FOXP3 isoforms in the generation of human CD4+ Tregs.",
+    "year": 2005,
+    "citations": 92,
+    "references": 33
+  },
+  {
+    "title": "Expression and functional characterization of FOXP3+ CD4+ regulatory T cells in ulcerative colitis.",
+    "year": 2007,
+    "citations": 35,
+    "references": 0
+  },
+  {
+    "title": "IL-2 induces in vivo suppression by CD4(+)CD25(+)Foxp3(+) regulatory T cells.",
+    "year": 2008,
+    "citations": 33,
+    "references": 0
+  },
+  {
+    "title": "The Treg-Specific Demethylated Region Stabilizes Foxp3 Expression Independently of NF-κB Signaling",
+    "year": 2014,
+    "citations": 4,
+    "references": 51
+  },
+  {
+    "title": "The role of FOXP3 in the development and metastatic spread of breast cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Abrogation of CD30 and OX40 signals prevents autoimmune disease in FoxP3-deficient mice",
+    "year": 2011,
+    "citations": 14,
+    "references": 4
+  },
+  {
+    "title": "High TCR diversity ensures optimal function and homeostasis of Foxp3+ regulatory T cells.",
+    "year": 2011,
+    "citations": 30,
+    "references": 0
+  },
+  {
+    "title": "OX40 costimulation can abrogate Foxp3+ regulatory T cell-mediated suppression of antitumor immunity.",
+    "year": 2009,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "[Construction and identification of the recombination adeno-associated virus carrying murine FoxP3 gene].",
+    "year": 2007,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Neem leaf glycoprotein inhibits CD4+CD25+Foxp3+ Tregs to restrict murine tumor growth.",
+    "year": 2011,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 promoter methylation impairs suppressive function of regulatory T cells in biliary atresia.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Retinoic acid enhances Foxp3 induction indirectly by relieving inhibition from CD4+CD44hi Cells.",
+    "year": 2008,
+    "citations": 100,
+    "references": 49
+  },
+  {
+    "title": "Intragraft levels of Foxp3 mRNA predict progression in renal transplants with borderline change.",
+    "year": 2008,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Selective depletion of Foxp3+ Treg during sensitization phase aggravates experimental allergic airway inflammation.",
+    "year": 2010,
+    "citations": 16,
+    "references": 0
+  },
+  {
+    "title": "The Scurfy mutation of FoxP3 in the thymus stroma leads to defective thymopoiesis",
+    "year": 2005,
+    "citations": 33,
+    "references": 39
+  },
+  {
+    "title": "Foxp3 inhibits RORgammat-mediated IL-17A mRNA transcription through direct interaction with RORgammat.",
+    "year": 2008,
+    "citations": 105,
+    "references": 0
+  },
+  {
+    "title": "Forkhead Transcription Factor FOXP3 Upregulates CD25 Expression through Cooperation with RelA/NF-κB",
+    "year": 2012,
+    "citations": 8,
+    "references": 40
+  },
+  {
+    "title": "Expression of FoxP3 protein plays a key role in thyroid tumors in children.",
+    "year": 2014,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 staining in BK virus allograft nephropathy and comparison with acute cellular rejection.",
+    "year": 2009,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Retroviral Foxp3 gene transfer ameliorates liver granuloma pathology in Schistosoma mansoni infected mice.",
+    "year": 2005,
+    "citations": 25,
+    "references": 0
+  },
+  {
+    "title": "Type 1 diabetes vaccine candidates promote human Foxp3+Treg induction in humanized mice",
+    "year": 2016,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "CD4(+)Foxp3(+) Tregs protect against innate immune cell-mediated fulminant hepatitis in mice.",
+    "year": 2015,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ T cells in peripheral blood of renal transplant recipients and clinical correlations.",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "In vivo expansion of CD4+Foxp3+ regulatory T cells mediated by GITR molecules.",
+    "year": 2008,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "Immune regulation by histone deacetylases: a focus on the alteration of FOXP3 activity.",
+    "year": 2012,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "[Changes of Foxp3 and IL-10 and TGF-beta in aging of mice].",
+    "year": 2010,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FoxP3+ Regulatory T Cells Determine Disease Severity in Rodent Models of Inflammatory Neuropathies",
+    "year": 2014,
+    "citations": 2,
+    "references": 37
+  },
+  {
+    "title": "Resistance of Foxp3+ Regulatory T Cells to Nur77-Induced Apoptosis Promotes Allograft Survival",
+    "year": 2008,
+    "citations": 4,
+    "references": 35
+  },
+  {
+    "title": "Diversity of TCRs on natural Foxp3+ T cells in mice lacking Aire expression.",
+    "year": 2010,
+    "citations": 10,
+    "references": 34
+  },
+  {
+    "title": "Refractory Colitis Following Anti-CTLA4 Antibody Therapy: Analysis of Mucosal FOXP3+ T Cells",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Sustained suppression by Foxp3+ regulatory T cells is vital for infectious transplantation tolerance",
+    "year": 2011,
+    "citations": 45,
+    "references": 28
+  },
+  {
+    "title": "Dominant Th2 differentiation of human regulatory T cells upon loss of FOXP3 expression.",
+    "year": 2012,
+    "citations": 12,
+    "references": 59
+  },
+  {
+    "title": "PSG9 Stimulates Increase in FoxP3+ Regulatory T-Cells through the TGF-β1 Pathway",
+    "year": 2016,
+    "citations": 1,
+    "references": 51
+  },
+  {
+    "title": "Allograft rejection is restrained by short-lived TIM-3+PD-1+Foxp3+ Tregs.",
+    "year": 2012,
+    "citations": 16,
+    "references": 40
+  },
+  {
+    "title": "Dendritic Cells from Oral Cavity Induce Foxp3+ Regulatory T Cells upon Antigen Stimulation",
+    "year": 2012,
+    "citations": 2,
+    "references": 47
+  },
+  {
+    "title": "CD49d provides access to \"untouched\" human Foxp3+ Treg free of contaminating effector cells.",
+    "year": 2009,
+    "citations": 34,
+    "references": 37
+  },
+  {
+    "title": "SOCS1 negatively regulates the production of Foxp3+ CD4+ T cells in the thymus.",
+    "year": 2009,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Fetal/placental Immune Regulation: Analysis of FOXP3+ Regulatory T cells in Human Gestation",
+    "year": 2010,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Breaking immune tolerance by targeting Foxp3+ regulatory T cells mitigates Alzheimer's disease pathology",
+    "year": 2015,
+    "citations": 34,
+    "references": 50
+  },
+  {
+    "title": "FOXP3-enriched infiltrates associated with better outcome in renal allografts with inflamed fibrosis.",
+    "year": 2009,
+    "citations": 6,
+    "references": 36
+  },
+  {
+    "title": "CCR7 Controls Thymus Recirculation, but Not Production and Emigration, of Foxp3+ T Cells",
+    "year": 2016,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 inhibits NF-κB activity and hence COX2 expression in gastric cancer cells.",
+    "year": 2014,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Unique phenotype of human tonsillar and in vitro-induced FOXP3+CD8+ T cells.",
+    "year": 2009,
+    "citations": 18,
+    "references": 0
+  },
+  {
+    "title": "Childhood allergic asthma is associated with increased IL-13 and FOXP3 histone acetylation.",
+    "year": 2015,
+    "citations": 5,
+    "references": 10
+  },
+  {
+    "title": "High density of FOXP3-positive T cells infiltrating colorectal cancers with microsatellite instability",
+    "year": 2008,
+    "citations": 34,
+    "references": 38
+  },
+  {
+    "title": "Decreased FoxP3 gene expression in the nasal secretions from patients with allergic rhinitis.",
+    "year": 2009,
+    "citations": 11,
+    "references": 22
+  },
+  {
+    "title": "Two FOXP3(+)CD4(+) T cell subpopulations distinctly control the prognosis of colorectal cancers.",
+    "year": 2016,
+    "citations": 20,
+    "references": 30
+  },
+  {
+    "title": "Implications of FoxP3-positive and -negative CD4(+) CD25(+) T cells in Graves' ophthalmopathy.",
+    "year": 2016,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "CD25+/Foxp3+ T cells regulate gastric inflammation and Helicobacter pylori colonization in vivo.",
+    "year": 2006,
+    "citations": 70,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 and Toll-like receptor signaling balance Treg cell anabolic metabolism for suppression.",
+    "year": 2016,
+    "citations": 12,
+    "references": 37
+  },
+  {
+    "title": "Intratumoral Convergence of the TCR Repertoires of Effector and Foxp3+ CD4+ T cells",
+    "year": 2010,
+    "citations": 6,
+    "references": 58
+  },
+  {
+    "title": "TGF-beta-induced Foxp3 inhibits T(H)17 cell differentiation by antagonizing RORgammat function.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Target tissue ectoenzyme CD39/CD73-expressing Foxp3+ regulatory T cells in patients with psoriasis.",
+    "year": 2015,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Infiltrating Foxp3(+) regulatory T cells from spontaneously tolerant kidney allografts demonstrate donor-specific tolerance.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "[Decrease of FOXP3 mRNA in CD4+ T cells in latent autoimmune diabetes in adult].",
+    "year": 2006,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Foxp3+ CD25+ CD4+ natural regulatory T cells in dominant self-tolerance and autoimmune disease.",
+    "year": 2006,
+    "citations": 431,
+    "references": 0
+  },
+  {
+    "title": "Presence of FoxP3+ regulatory T Cells predicts outcome of subclinical rejection of renal allografts.",
+    "year": 2008,
+    "citations": 24,
+    "references": 0
+  },
+  {
+    "title": "FOXP3+ regulatory T cells: from suppression of rejection to induction of renal allograft tolerance.",
+    "year": 2012,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "Relevance of Foxp3⁺ regulatory T cells for early and late phases of murine sepsis.",
+    "year": 2015,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Helicobacter pylori Induces miR-155 in T Cells in a cAMP-Foxp3-Dependent Manner",
+    "year": 2010,
+    "citations": 24,
+    "references": 47
+  },
+  {
+    "title": "[Hypoxia and its simulant CoCl(2) down-regulates Foxp3 expression independent from HIF-1alpha].",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "c-Rel is required for the development of thymic Foxp3+ CD4 regulatory T cells",
+    "year": 2009,
+    "citations": 57,
+    "references": 64
+  },
+  {
+    "title": "Selective depletion of Foxp3+ regulatory T cells improves effective therapeutic vaccination against established melanoma.",
+    "year": 2010,
+    "citations": 80,
+    "references": 41
+  },
+  {
+    "title": "Visualization of naturally occurring Foxp3+ regulatory T cells in normal and tumor-bearing mice.",
+    "year": 2004,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "A Central Role for Foxp3+ Regulatory T Cells in K-Ras-Driven Lung Tumorigenesis",
+    "year": 2009,
+    "citations": 20,
+    "references": 32
+  },
+  {
+    "title": "[CD₄(+)Foxp3(+) regulatory T cells in inflammation and emphysema after smoking cessation in rats].",
+    "year": 2010,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Monotherapy rapamycin allows an increase of CD4 CD25 FoxP3 T cells in renal recipients.",
+    "year": 2009,
+    "citations": 15,
+    "references": 41
+  },
+  {
+    "title": "Expression of CD4+ forkhead box P3 (FOXP3)+ regulatory T cells in inflammatory bowel disease.",
+    "year": 2011,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "Next-generation insights into regulatory T cells: expression profiling and FoxP3 occupancy in Human",
+    "year": 2011,
+    "citations": 27,
+    "references": 52
+  },
+  {
+    "title": "The role of the transcription factor Foxp3 in the development of regulatory T cells.",
+    "year": 2006,
+    "citations": 45,
+    "references": 0
+  },
+  {
+    "title": "Profiles of Foxp3+ regulatory T cells in eczematous dermatitis, psoriasis vulgaris and mycosis fungoides.",
+    "year": 2008,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "One calcitriol dose transiently increases Helios+ FoxP3+ T cells and ameliorates autoimmune demyelinating disease.",
+    "year": 2013,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Arteether exerts antitumor activity and reduces CD4+CD25+FOXP3+ T-reg cells in vivo.",
+    "year": 2013,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Increased frequencies of CD4+ CD25+ FOXP3+ regulatory T cells in human nasal inverted papilloma.",
+    "year": 2011,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "CD25+ FoxP3+ Memory CD4 T Cells Are Frequent Targets of HIV Infection In Vivo.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Constitutive nuclear localization of NFAT in Foxp3+ regulatory T cells independent of calcineurin activity.",
+    "year": 2012,
+    "citations": 8,
+    "references": 75
+  },
+  {
+    "title": "The role of the FOXP3 transcription factor in the immune regulation of allergic asthma.",
+    "year": 2005,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "TGFb regulates the CD41CD251 T-cell pool and the expression of Foxp3 in vivo",
+    "year": 2004,
+    "citations": 13,
+    "references": 30
+  },
+  {
+    "title": "Apoptosis Signaling Is Altered in CD4+CD25+FoxP3+ T Regulatory Lymphocytes in Pre-Eclampsia",
+    "year": 2012,
+    "citations": 2,
+    "references": 36
+  },
+  {
+    "title": "Extracellular NAD+ shapes the Foxp3+ regulatory T cell compartment through the ART2–P2X7 pathway",
+    "year": 2010,
+    "citations": 39,
+    "references": 28
+  },
+  {
+    "title": "CD4+FoxP3+ regulatory T cells confer infectious tolerance in a TGF-β–dependent manner",
+    "year": 2008,
+    "citations": 79,
+    "references": 29
+  },
+  {
+    "title": "[Expressions of RORγT; and FOXP3 and clinical significance in patients with oral lichen planus].",
+    "year": 2014,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Intratumoral FoxP3 expression is associated with angiogenesis and prognosis in malignant canine mammary tumors.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Comprehensive association analysis of candidate genes for generalized vitiligo supports XBP1, FOXP3, and TSLP.",
+    "year": 2011,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "Prognostic value of tumor-infiltrating FOXP3+ regulatory T cells in patients with hepatocellular carcinoma.",
+    "year": 2008,
+    "citations": 26,
+    "references": 0
+  },
+  {
+    "title": "CD4+CD25+ T cells expressing FoxP3 in Icelandic horses affected with insect bite hypersensitivity.",
+    "year": 2012,
+    "citations": 8,
+    "references": 0
+  },
+  {
+    "title": "[Altered frequency of CD4+CD25-Foxp3+ T cells in patients with systemic lupus erythematosus].",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Association of Foxp3 expression with prognosis in resected non-small cell lung cancer (NSCLC).",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 rs3761548 polymorphism is associated with tacrolimus-induced acute nephrotoxicity in renal transplant patients",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Evaluation of CD4+ CD25+ FoxP3+ regulatory T cells during treatment of patients with brucellosis.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Enhanced formation and survival of CD4+ CD25hi Foxp3+ T-cells in chronic lymphocytic leukemia.",
+    "year": 2009,
+    "citations": 13,
+    "references": 0
+  },
+  {
+    "title": "The use of FoxP3 as a biomarker and prognostic factor for malignant human tumors.",
+    "year": 2007,
+    "citations": 6,
+    "references": 38
+  },
+  {
+    "title": "CARMA1 controls an early checkpoint in the thymic development of FoxP3+ regulatory T cells.",
+    "year": 2009,
+    "citations": 36,
+    "references": 47
+  },
+  {
+    "title": "Few Foxp3⁺ regulatory T cells are sufficient to protect adult mice from lethal autoimmunity.",
+    "year": 2014,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Prostate cancer lesions are surrounded by FOXP3+, PD-1+ and B7-H1+ lymphocyte clusters.",
+    "year": 2009,
+    "citations": 21,
+    "references": 0
+  },
+  {
+    "title": "[Neuroblastoma LA-N-6 cells express Foxp3 which can be suppressed by chemotherapeutic agents].",
+    "year": 2010,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Tumor-infiltrating Foxp3-CD4+CD25+ T cells predict poor survival in renal cell carcinoma.",
+    "year": 2007,
+    "citations": 56,
+    "references": 7
+  },
+  {
+    "title": "Foxp3+ Regulatory T Cells, Th17 Effector Cells, and Cytokine Environment in Inflammatory Bowel Disease",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Epigenetic control of FOXP3 expression: the key to a stable regulatory T-cell lineage?",
+    "year": 2009,
+    "citations": 116,
+    "references": 0
+  },
+  {
+    "title": "Dominant role of antigen dose in CD4+Foxp3+ regulatory T cell induction and expansion.",
+    "year": 2009,
+    "citations": 45,
+    "references": 0
+  },
+  {
+    "title": "TCR repertoire and Foxp3 expression define functionally distinct subsets of CD4+ regulatory T cells.",
+    "year": 2009,
+    "citations": 11,
+    "references": 0
+  },
+  {
+    "title": "Are CD4+CD25-Foxp3+ cells in untreated new-onset lupus patients regulatory T cells?",
+    "year": 2009,
+    "citations": 28,
+    "references": 16
+  },
+  {
+    "title": "Human lung fibroblasts increase CD4(+)CD25(+)Foxp3(+) T cells in co-cultured CD4(+) lymphocytes.",
+    "year": 2013,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Inducible Foxp3+ regulatory T-cell development by a commensal bacterium of the intestinal microbiota.",
+    "year": 2010,
+    "citations": 326,
+    "references": 20
+  },
+  {
+    "title": "Prognostic Value of Tumor-Infiltrating FoxP3+ T Cells in Gastrointestinal Cancers: A Meta Analysis",
+    "year": 2014,
+    "citations": 9,
+    "references": 53
+  },
+  {
+    "title": "Domain Requirements and Sequence Specificity of DNA Binding for the Forkhead Transcription Factor FOXP3",
+    "year": 2009,
+    "citations": 17,
+    "references": 39
+  },
+  {
+    "title": "Intratumoral FOXP3 expression in infiltrating breast carcinoma: Its association with clinicopathologic parameters and angiogenesis.",
+    "year": 2007,
+    "citations": 33,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 -3279 and IVS9+459 polymorphisms are associated with genetic susceptibility to myasthenia gravis.",
+    "year": 2013,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "Association of FoxP3 rs3761548 polymorphism with susceptibility to colorectal cancer in the Chinese population.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Automated prognostic pattern detection shows favourable diffuse pattern of FOXP3+ Tregs in follicular lymphoma",
+    "year": 2015,
+    "citations": 2,
+    "references": 44
+  },
+  {
+    "title": "Expansion of CD4+ CD25+ FoxP3+ regulatory T cells in chronic hepatitis C virus infection.",
+    "year": 2010,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Regulation of IL-2 gene expression by Siva and FOXP3 in human T cells",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Cell-surface IL-7 receptor expression facilitates the purification of FOXP3(+) regulatory T cells.",
+    "year": 2006,
+    "citations": 32,
+    "references": 0
+  },
+  {
+    "title": "An intrinsic mechanism predisposes Foxp3-expressing regulatory T cells to Th2 conversion in vivo.",
+    "year": 2010,
+    "citations": 26,
+    "references": 40
+  },
+  {
+    "title": "Analysis of Foxp3, CD25, and CD127 expressed on regulatory T cells in Thai subjects.",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Increased FOXP3 expression in tumour-associated tissues of horses affected with equine sarcoid disease.",
+    "year": 2014,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 transcription-factor-dependent and -independent regulation of the regulatory T cell transcriptional signature.",
+    "year": 2007,
+    "citations": 184,
+    "references": 0
+  },
+  {
+    "title": "Combination of isoform-selective histone/protein deacetylase inhibitors improves Foxp3+ T-regulatory cell function",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "DNA binding by FOXP3 domain-swapped dimer suggests mechanisms of long-range chromosomal interactions",
+    "year": 2015,
+    "citations": 4,
+    "references": 54
+  },
+  {
+    "title": "Inducing Humoral Immune Responses Against Regulatory T Cells by Foxp3-Fc(IgG) Fusion Protein.",
+    "year": 2015,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Statins Increase the Frequency of Circulating CD4+FOXP3+ Regulatory T Cells in Healthy Individuals",
+    "year": 2015,
+    "citations": 7,
+    "references": 34
+  },
+  {
+    "title": "In vitro-expanded CD4(+)CD25(high)Foxp3(+) regulatory T cells controls corneal allograft rejection.",
+    "year": 2012,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "[Tubacin promotes Foxp3 expression and suppressive function of mouse CD4+;CD25+; regulatory T cells].",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 positive regulatory T-cells in cutaneous and systemic CD30 positive T-cell lymphoproliferations.",
+    "year": 2008,
+    "citations": 7,
+    "references": 27
+  },
+  {
+    "title": "Foxp3-dependent microRNA155 confers competitive fitness to regulatory T cells by targeting SOCS1 protein.",
+    "year": 2009,
+    "citations": 203,
+    "references": 37
+  },
+  {
+    "title": "Increased Foxp3 expression in guinea pigs infected with W-Beijing strains of M. tuberculosis.",
+    "year": 2011,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "Development of mouse CD4(+)CD25(+)Foxp3(+) regulatory T cells in xenogeneic pig thymic grafts.",
+    "year": 2009,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Despite increased CD4+Foxp3+ cells within the infection site, BALB/c IL-4 receptor-deficient mice reveal CD4+Foxp3-negative T cells as a source of IL-10 in Leishmania major susceptibility.",
+    "year": 2007,
+    "citations": 12,
+    "references": 55
+  },
+  {
+    "title": "FOXP3+ Cells Recruited by CCL22 into Breast Cancer Correlates with Less Tumor Nodal Infiltration.",
+    "year": 2016,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Increased CD4+CD25+Foxp3+ regulatory T cells in tolerance induced by portal venous injection.",
+    "year": 2009,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "TGF-β: the sword, the wand, and the shield of FOXP3(+) regulatory T cells.",
+    "year": 2012,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "Decreased interstitial FOXP3(+) lymphocytes in usual interstitial pneumonia with discrepancy of CXCL12/CXCR4 axis.",
+    "year": 2010,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Varicella zoster-specific CD4+Foxp3+ T cells accumulate after cutaneous antigen challenge in humans.",
+    "year": 2013,
+    "citations": 9,
+    "references": 52
+  },
+  {
+    "title": "The cellular prion protein is preferentially expressed by CD4+ CD25+ Foxp3+ regulatory T cells.",
+    "year": 2008,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "Contrasting CD25hiCD4+T cells/FOXP3 patterns in chronic rejection and operational drug-free tolerance.",
+    "year": 2006,
+    "citations": 45,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 expression in esophageal cancer cells is associated with poor prognosis in esophageal cancer.",
+    "year": 2012,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "Cutting edge: human CD4-CD8- thymocytes express FOXP3 in the absence of a TCR.",
+    "year": 2008,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "[Effect of PTD-deltaPRD Foxp3 fusion protein on the mixed lymphocyte reaction in mice].",
+    "year": 2009,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Distinct subsets of FoxP3+ regulatory T cells participate in the control of immune responses.",
+    "year": 2007,
+    "citations": 36,
+    "references": 45
+  },
+  {
+    "title": "Foxp3+ T cells induce perforin-dependent dendritic cell death in tumor-draining lymph nodes.",
+    "year": 2010,
+    "citations": 55,
+    "references": 42
+  },
+  {
+    "title": "Epigenetic Changes in Foxp3 in Treg of Identical Twins Discordant for Asthma NATURAL SCIENCES",
+    "year": 2011,
+    "citations": 0,
+    "references": 2
+  },
+  {
+    "title": "Blockade of LFA-1 augments in vitro differentiation of antigen-induced Foxp3+ Treg cells",
+    "year": 2014,
+    "citations": 3,
+    "references": 12
+  },
+  {
+    "title": "Utility of CD127 combined with FOXP3 for identification of operational tolerance after liver transplantation.",
+    "year": 2016,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Identification of two FoxP3 genes in rainbow trout (Oncorhynchus mykiss) with differential induction patterns.",
+    "year": 2010,
+    "citations": 10,
+    "references": 0
+  },
+  {
+    "title": "IMMUNOBIOLOGY IL-2 administration increases CD4 CD25hi Foxp3 regulatory T cells in cancer patients",
+    "year": 2006,
+    "citations": 9,
+    "references": 25
+  },
+  {
+    "title": "Induction of transplantation tolerance by allogeneic donor-derived CD4(+)CD25(+)Foxp3(+) regulatory T cells.",
+    "year": 2008,
+    "citations": 14,
+    "references": 0
+  },
+  {
+    "title": "[Tumor-infiltrating FoxP3+ Tregs are associated with CD34 expression and prognosis of hepatocellular carcinoma].",
+    "year": 2012,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Cutting edge: Dab2 is a FOXP3 target gene required for regulatory T cell function.",
+    "year": 2009,
+    "citations": 6,
+    "references": 22
+  },
+  {
+    "title": "The presence of tumor-infiltrating FOXP3+ lymphocytes correlates with intratumoral angiogenesis in endometrial cancer.",
+    "year": 2008,
+    "citations": 20,
+    "references": 0
+  },
+  {
+    "title": "Retinal pigment epithelial cells induce foxp3(+) regulatory T cells via membrane-bound TGF-β.",
+    "year": 2010,
+    "citations": 6,
+    "references": 0
+  },
+  {
+    "title": "An MHC-linked locus modulates thymic differentiation of CD4+CD25+Foxp3+ regulatory T lymphocytes.",
+    "year": 2006,
+    "citations": 4,
+    "references": 35
+  },
+  {
+    "title": "The thymic medulla is required for Foxp3+ regulatory but not conventional CD4+ thymocyte development",
+    "year": 2013,
+    "citations": 41,
+    "references": 12
+  },
+  {
+    "title": "Decreased FOXP3 mRNA expression in children with atopic asthma and IgE-mediated food allergy.",
+    "year": 2015,
+    "citations": 3,
+    "references": 40
+  },
+  {
+    "title": "Indirubin Increases CD4+CD25+Foxp3+ Regulatory T Cells to Prevent Immune Thrombocytopenia in Mice",
+    "year": 2015,
+    "citations": 0,
+    "references": 27
+  },
+  {
+    "title": "[Effects of FOXP3 on the progression of atherosclerosis plaque in ApoE-knock out mice].",
+    "year": 2011,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Foxp3 expression in melanoma cells as a possible mechanism of resistance to immune destruction",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Hepatic stellate cells preferentially induce Foxp3+ regulatory T cells by production of retinoic acid.",
+    "year": 2013,
+    "citations": 22,
+    "references": 52
+  },
+  {
+    "title": "Role of regulatory CD4+CD25+ Foxp3 T cells in bronchial asthma in Egyptian children.",
+    "year": 2013,
+    "citations": 0,
+    "references": 30
+  },
+  {
+    "title": "Ribavirin Does Not Impair the Suppressive Activity of Foxp3+CD4+CD25+ Regulatory T Cells",
+    "year": 2013,
+    "citations": 2,
+    "references": 22
+  },
+  {
+    "title": "A physiological role for inducible FOXP3(+) Treg cells. Lessons from women with reproductive failure.",
+    "year": 2010,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "FoxP3- and CD8-positive Infiltrating Immune Cells Together Determine Clinical Outcome in Colorectal Cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Genome-wide analysis of Foxp3 target genes in developing and mature regulatory T cells.",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "IL-2 administration increases CD4+ CD25(hi) Foxp3+ regulatory T cells in cancer patients.",
+    "year": 2006,
+    "citations": 160,
+    "references": 25
+  },
+  {
+    "title": "Foxp3+ CD4+ T cells improve healing after myocardial infarction by modulating monocyte/macrophage differentiation.",
+    "year": 2014,
+    "citations": 38,
+    "references": 0
+  },
+  {
+    "title": "Correlation of Foxp3 positive regulatory T cells with prognostic factors in canine mammary carcinomas.",
+    "year": 2012,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 mRNA expression analysis in the peripheral blood and allograft of heart transplant patients.",
+    "year": 2008,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "Peripheral and Thymic Foxp3+ Regulatory T Cells in Search of Origin, Distinction, and Function",
+    "year": 2013,
+    "citations": 9,
+    "references": 122
+  },
+  {
+    "title": "Intrahepatic detection of FOXP3 gene expression after liver transplantation using minimally invasive aspiration biopsy.",
+    "year": 2007,
+    "citations": 5,
+    "references": 0
+  },
+  {
+    "title": "[Analysis of Foxp3+ CD4+ CD25+ regulatory cells in peripheral blood of patients with SLE].",
+    "year": 2007,
+    "citations": 1,
+    "references": 0
+  },
+  {
+    "title": "Immunohistochemical analysis of FOXP3+ regulatory T cells in healthy human skin and autoimmune dermatoses.",
+    "year": 2014,
+    "citations": 3,
+    "references": 0
+  },
+  {
+    "title": "Predictive and prognostic factors in locally advanced breast cancer: effect of intratumoral FOXP3+ Tregs",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Depletion of Foxp3+ Regulatory T Cells Promotes Profibrogenic Milieu of Cholestasis-Induced Liver Injury",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "Colorectal cancer-derived Foxp3(+) IL-17(+) T cells suppress tumour-specific CD8+ T cells.",
+    "year": 2011,
+    "citations": 9,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 autoantibody as a potential early prognostic serum biomarker in patients with cervical cancer",
+    "year": null,
+    "citations": 0,
+    "references": 0
+  },
+  {
+    "title": "TGF-beta1 modulates Foxp3 expression and regulatory activity in distinct CD4+ T cell subsets.",
+    "year": 2007,
+    "citations": 22,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 gene expression in multiple sclerosis patients pre- and post mesenchymal stem cell therapy.",
+    "year": 2011,
+    "citations": 9,
+    "references": 31
+  },
+  {
+    "title": "CD4(+) CD25(+) Foxp3(+) T regulatory cells with limited TCR diversity in control of autoimmunity.",
+    "year": 2010,
+    "citations": 12,
+    "references": 27
+  },
+  {
+    "title": "Tumor-infiltrating lymphocytes contain a higher proportion of FOXP3(+) T lymphocytes in cervical cancer.",
+    "year": 2011,
+    "citations": 2,
+    "references": 0
+  },
+  {
+    "title": "JunB and c-Rel cooperatively enhance Foxp3 expression during induced regulatory T cell differentiation.",
+    "year": 2011,
+    "citations": 7,
+    "references": 0
+  },
+  {
+    "title": "FOXP3 T regulatory cells in lesions of oral lichen planus correlated with disease activity.",
+    "year": 2010,
+    "citations": 18,
+    "references": 19
+  },
+  {
+    "title": "Runx-CBFbeta complexes control expression of the transcription factor Foxp3 in regulatory T cells.",
+    "year": 2009,
+    "citations": 42,
+    "references": 27
+  },
+  {
+    "title": "Functionally distinct subsets of human FOXP3+ Treg cells that phenotypically mirror effector Th cells.",
+    "year": 2012,
+    "citations": 71,
+    "references": 49
+  },
+  {
+    "title": "Human T-cell leukemia virus type 1 and Foxp3 expression: viral strategy in vivo.",
+    "year": 2014,
+    "citations": 5,
+    "references": 63
+  },
+  {
+    "title": "Zonal Difference and Prognostic Significance of Foxp3 Regulatory T Cell Infiltration in Breast Cancer",
+    "year": 2014,
+    "citations": 7,
+    "references": 26
+  },
+  {
+    "title": "Therapeutic potential of TGF-β-induced CD4(+) Foxp3(+) regulatory T cells in autoimmune diseases.",
+    "year": 2011,
+    "citations": 16,
+    "references": 79
+  },
+  {
+    "title": "Transcriptional characteristics of CD4+ T cells in young asthmatic children: RORC and FOXP3 axis",
+    "year": 2011,
+    "citations": 9,
+    "references": 37
+  },
+  {
+    "title": "Foxp3-independent loss of regulatory CD4+ T-cell suppressive capacities induced by self-deprivation.",
+    "year": 2012,
+    "citations": 4,
+    "references": 0
+  },
+  {
+    "title": "No alterations in the frequency of FOXP3+ regulatory T-cells in type 1 diabetes.",
+    "year": 2007,
+    "citations": 59,
+    "references": 0
+  }
+]

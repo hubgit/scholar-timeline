@@ -1,0 +1,19 @@
+{
+  "name": "scholar-timeline",
+  "version": "0.0.1",
+  "main": "src",
+  "author": "Alf Eaton <eaton.alf@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "serve src"
+  },
+  "dependencies": {
+    "serve": "^6.4.8"
+  },
+  "now": {
+    "alias": "scholar-timeline"
+  }
+}
